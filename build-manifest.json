@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T05:57:07.404Z",
+  "generated": "2026-10-23T06:10:17.117Z",
   "allowedTop": [
     "tax",
     "property",
@@ -373,7 +373,7 @@
       "section": "index",
       "facts_used": [],
       "review": "pending",
-      "body_sha256": "f3c719254a8e499728a1fa3e0789ce4f1e8eeaad73dc007fa5754b39dd21320a"
+      "body_sha256": "73698702eae4e271b92fd7b7a1e1bf1599768e3b3443ecceb510269b341d3790"
     },
     {
       "route": "/veryvisa-com-site/home/era/strata/",
@@ -382,7 +382,7 @@
       "section": "era-strata",
       "facts_used": [],
       "review": "pending",
-      "body_sha256": "68fae764c7845f34ed0ca2c465eaf2ad044f2f93bc3426d58423e81a754a191f"
+      "body_sha256": "3ca5a5ad2a7901111eb0214432da04e543d22a01fcf16d1ab5043b489974c75d"
     },
     {
       "route": "/veryvisa-com-site/home/era/",
@@ -410,7 +410,7 @@
         "vw-catchments:status"
       ],
       "review": "pending",
-      "body_sha256": "911cbba787d7f23994d887e34ace5c765b85180491aa35b96eec0111525effb4"
+      "body_sha256": "a1d54c71c1e99ace2f8559c81d59676b63bda06f7856eed6dd0253597f6dc23e"
     },
     {
       "route": "/veryvisa-com-site/home/schools/",
@@ -421,7 +421,7 @@
         "vw-catchments:status"
       ],
       "review": "pending",
-      "body_sha256": "ad7635e21e413aa2172e167348a49a5c1bebdc0515299129704c005139a82c22"
+      "body_sha256": "288a1ffb76b356b81f4d138f1265c47af16a688b0750808d6f6a03a71739ca34"
     },
     {
       "route": "/veryvisa-com-site/home/schools/bayview-community-elementary/",
@@ -1333,7 +1333,7 @@
         "pplx-verified:pplx-home-1017:01:21"
       ],
       "review": "pending",
-      "body_sha256": "84938e63c32a180769daa9ab8285ba02ae326d9c5407adeedf6ec4902e5fba1e"
+      "body_sha256": "1f0ced2cd06ed6dd48bc8d9fdde5f775f069d63de6533283a7a4171eeb729ed2"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/",
@@ -1477,7 +1477,7 @@
         "vw-open-data:kitsilano:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "24f9918d9e1af23fb800d3effb1c59c2df7ca9aabd33ff81c96abf7f3ebf7e9a"
+      "body_sha256": "391ba22598b57138629523241862b5ed9be1cd4ace8046cb3743bd9c945090ea"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kitsilano/print/",
@@ -1546,7 +1546,7 @@
         "vw-open-data:west-point-grey:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "45258cc6a21a8b20374a0f13fbecf191d501b80b2326e8b707803c2e9c7098cc"
+      "body_sha256": "4ab2bddd8fb862d1199bb7f6c5ccd29393b4ae2fecf48cee3f9455c52a0ec364"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/west-point-grey/print/",
@@ -1615,7 +1615,7 @@
         "vw-open-data:dunbar-southlands:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "155afe52e3b88c6bec846cd592c430a22277cc4f9c9a70e2e522becdc91dbde0"
+      "body_sha256": "cc734b99ffe63ff127e35c7d34c85c2dfb7e7d0d8db21c6ec18d2cfec86968a3"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/dunbar-southlands/print/",
@@ -1684,7 +1684,7 @@
         "vw-open-data:arbutus-ridge:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "8ee981d14897495d019e5ddc1462f9d748af6d2947370f97936a03d6a1f25e70"
+      "body_sha256": "3eb9caa3c63417d6025ae19826870c5d2e79476d2e381185fc7887ca00665ffb"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/arbutus-ridge/print/",
@@ -1753,7 +1753,7 @@
         "vw-open-data:kerrisdale:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "d1dd9b46d961452e269c6feaeb672c7ef17480b380c1863c99690c0a360e4562"
+      "body_sha256": "8e3a7c9168dba892e3438d268497c5dd4819ea21ac530d6b8f4956cb043b93b0"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kerrisdale/print/",
@@ -1822,7 +1822,7 @@
         "vw-open-data:shaughnessy:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "f23c8d1449bbb01f989914f07f6cc711a2a27ed7ab19e91ad35edf52e2162d96"
+      "body_sha256": "db32503f23709991567e07ada854651c5b4c01b53f1bdaf39014db08fc5db3ab"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/shaughnessy/print/",
@@ -1891,7 +1891,7 @@
         "vw-open-data:fairview:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "02eea1c3ac776d4b99e50fefefe0b7890bc15aedf4cc019bd9a62059573a390f"
+      "body_sha256": "552b89d229478b89fdda570d216c634210f424f75b0d3ddb61619083066ac3db"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/fairview/print/",
@@ -1956,7 +1956,7 @@
         "vw-open-data:south-cambie:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "daf730d8616276d09e35daae1db2289852d58a8fdaf919407f22958857728d54"
+      "body_sha256": "1d0c22178335ec505d7145f6f444bac5deed92ab9a8a48c99effabb5323e6603"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/south-cambie/print/",
@@ -2025,7 +2025,7 @@
         "vw-open-data:oakridge:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "a42a8545a9308ece1980d21cb73e9a3b517b31c5585137e3ab192f6110339880"
+      "body_sha256": "b10551d9163b6441a397292648bf133e1c2b1d579d146b25f681bae20a3f474d"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/oakridge/print/",
@@ -2094,7 +2094,7 @@
         "vw-open-data:marpole:strata:floodplain-parcels"
       ],
       "review": "pending",
-      "body_sha256": "3852f787a78b0ea71bdb6c7827034a312e36f5459d53197a1371cc868cf75cf4"
+      "body_sha256": "336d6dea2f31ee02600da0e7dd0d4824ea677b2185ef5fe8e350d976b7c96a71"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/marpole/print/",
@@ -2826,7 +2826,7 @@
         "home-guide:estate-probate-purchase:own"
       ],
       "review": "pending",
-      "body_sha256": "bda47ddb88c39bf1f2893ea278bc961999c97c0f7aa4a5354375b83f28170476"
+      "body_sha256": "d142fc5b695524079906dec39d43115b815df7e1a98b5d58b2036f9f4ce5398a"
     },
     {
       "route": "/veryvisa-com-site/home/guide/tenanted-purchase/",
@@ -2993,7 +2993,7 @@
         "pplx-verified:pplx-home-1017:00:10"
       ],
       "review": "pending",
-      "body_sha256": "1d8fcd4240412e11d16fc85b6676d8e383eb038f810e5a013e8c30e6600db00e"
+      "body_sha256": "46bd846d047bf0dcae382d9cee5a44e60029e620c63c206f7a07be8caa39040e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/prepayment-penalty/",
@@ -4206,7 +4206,7 @@
         "home-guide:west-vancouver:x2"
       ],
       "review": "pending",
-      "body_sha256": "9e84442b25caf50e07050db0089ebb91bb021d758ae21ded98b7ee8d0d819e48"
+      "body_sha256": "84706d09e489bf9c017a7fb8009eb287cf8708a5d1888f084725da815a87726c"
     },
     {
       "route": "/veryvisa-com-site/home/guide/north-vancouver/",
