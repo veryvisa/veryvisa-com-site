@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T06:10:17.117Z",
+  "generated": "2026-10-23T06:13:11.398Z",
   "allowedTop": [
     "tax",
     "property",
@@ -372,8 +372,12 @@
       "kind": "home",
       "section": "index",
       "facts_used": [],
-      "review": "pending",
-      "body_sha256": "73698702eae4e271b92fd7b7a1e1bf1599768e3b3443ecceb510269b341d3790"
+      "review": "reviewed",
+      "body_sha256": "73698702eae4e271b92fd7b7a1e1bf1599768e3b3443ecceb510269b341d3790",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/era/strata/",
@@ -381,8 +385,12 @@
       "kind": "home",
       "section": "era-strata",
       "facts_used": [],
-      "review": "pending",
-      "body_sha256": "3ca5a5ad2a7901111eb0214432da04e543d22a01fcf16d1ab5043b489974c75d"
+      "review": "reviewed",
+      "body_sha256": "3ca5a5ad2a7901111eb0214432da04e543d22a01fcf16d1ab5043b489974c75d",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/era/",
@@ -390,8 +398,12 @@
       "kind": "home",
       "section": "era",
       "facts_used": [],
-      "review": "pending",
-      "body_sha256": "f4aaf4b05597b29a01c883103f2c04e46d1971301d7f7a5437309d5215656785"
+      "review": "reviewed",
+      "body_sha256": "f4aaf4b05597b29a01c883103f2c04e46d1971301d7f7a5437309d5215656785",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/brief/",
@@ -409,8 +421,12 @@
       "facts_used": [
         "vw-catchments:status"
       ],
-      "review": "pending",
-      "body_sha256": "a1d54c71c1e99ace2f8559c81d59676b63bda06f7856eed6dd0253597f6dc23e"
+      "review": "reviewed",
+      "body_sha256": "a1d54c71c1e99ace2f8559c81d59676b63bda06f7856eed6dd0253597f6dc23e",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/schools/",
@@ -1332,8 +1348,12 @@
         "pplx-verified:pplx-home-1017:01:20",
         "pplx-verified:pplx-home-1017:01:21"
       ],
-      "review": "pending",
-      "body_sha256": "1f0ced2cd06ed6dd48bc8d9fdde5f775f069d63de6533283a7a4171eeb729ed2"
+      "review": "reviewed",
+      "body_sha256": "1f0ced2cd06ed6dd48bc8d9fdde5f775f069d63de6533283a7a4171eeb729ed2",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/",
@@ -1422,8 +1442,12 @@
         "vw-open-data:marpole:strata:land-share-median-2026",
         "vw-open-data:marpole:strata:count-2026"
       ],
-      "review": "pending",
-      "body_sha256": "301f452226c23cca26050b9e948338d1c1567e4e5445d4419ad7401c574f3411"
+      "review": "reviewed",
+      "body_sha256": "301f452226c23cca26050b9e948338d1c1567e4e5445d4419ad7401c574f3411",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kitsilano/",
@@ -1476,8 +1500,12 @@
         "vw-open-data:kitsilano:strata:heritage-parcels",
         "vw-open-data:kitsilano:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "391ba22598b57138629523241862b5ed9be1cd4ace8046cb3743bd9c945090ea"
+      "review": "reviewed",
+      "body_sha256": "391ba22598b57138629523241862b5ed9be1cd4ace8046cb3743bd9c945090ea",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kitsilano/print/",
@@ -1545,8 +1573,12 @@
         "vw-open-data:west-point-grey:strata:heritage-parcels",
         "vw-open-data:west-point-grey:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "4ab2bddd8fb862d1199bb7f6c5ccd29393b4ae2fecf48cee3f9455c52a0ec364"
+      "review": "reviewed",
+      "body_sha256": "4ab2bddd8fb862d1199bb7f6c5ccd29393b4ae2fecf48cee3f9455c52a0ec364",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/west-point-grey/print/",
@@ -1614,8 +1646,12 @@
         "vw-open-data:dunbar-southlands:strata:heritage-parcels",
         "vw-open-data:dunbar-southlands:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "cc734b99ffe63ff127e35c7d34c85c2dfb7e7d0d8db21c6ec18d2cfec86968a3"
+      "review": "reviewed",
+      "body_sha256": "cc734b99ffe63ff127e35c7d34c85c2dfb7e7d0d8db21c6ec18d2cfec86968a3",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/dunbar-southlands/print/",
@@ -1683,8 +1719,12 @@
         "vw-open-data:arbutus-ridge:strata:heritage-parcels",
         "vw-open-data:arbutus-ridge:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "3eb9caa3c63417d6025ae19826870c5d2e79476d2e381185fc7887ca00665ffb"
+      "review": "reviewed",
+      "body_sha256": "3eb9caa3c63417d6025ae19826870c5d2e79476d2e381185fc7887ca00665ffb",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/arbutus-ridge/print/",
@@ -1752,8 +1792,12 @@
         "vw-open-data:kerrisdale:strata:heritage-parcels",
         "vw-open-data:kerrisdale:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "8e3a7c9168dba892e3438d268497c5dd4819ea21ac530d6b8f4956cb043b93b0"
+      "review": "reviewed",
+      "body_sha256": "8e3a7c9168dba892e3438d268497c5dd4819ea21ac530d6b8f4956cb043b93b0",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kerrisdale/print/",
@@ -1821,8 +1865,12 @@
         "vw-open-data:shaughnessy:strata:heritage-parcels",
         "vw-open-data:shaughnessy:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "db32503f23709991567e07ada854651c5b4c01b53f1bdaf39014db08fc5db3ab"
+      "review": "reviewed",
+      "body_sha256": "db32503f23709991567e07ada854651c5b4c01b53f1bdaf39014db08fc5db3ab",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/shaughnessy/print/",
@@ -1890,8 +1938,12 @@
         "vw-open-data:fairview:strata:heritage-parcels",
         "vw-open-data:fairview:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "552b89d229478b89fdda570d216c634210f424f75b0d3ddb61619083066ac3db"
+      "review": "reviewed",
+      "body_sha256": "552b89d229478b89fdda570d216c634210f424f75b0d3ddb61619083066ac3db",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/fairview/print/",
@@ -1955,8 +2007,12 @@
         "vw-open-data:south-cambie:strata:heritage-parcels",
         "vw-open-data:south-cambie:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "1d0c22178335ec505d7145f6f444bac5deed92ab9a8a48c99effabb5323e6603"
+      "review": "reviewed",
+      "body_sha256": "1d0c22178335ec505d7145f6f444bac5deed92ab9a8a48c99effabb5323e6603",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/south-cambie/print/",
@@ -2024,8 +2080,12 @@
         "vw-open-data:oakridge:strata:heritage-parcels",
         "vw-open-data:oakridge:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "b10551d9163b6441a397292648bf133e1c2b1d579d146b25f681bae20a3f474d"
+      "review": "reviewed",
+      "body_sha256": "b10551d9163b6441a397292648bf133e1c2b1d579d146b25f681bae20a3f474d",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/oakridge/print/",
@@ -2093,8 +2153,12 @@
         "vw-open-data:marpole:strata:heritage-parcels",
         "vw-open-data:marpole:strata:floodplain-parcels"
       ],
-      "review": "pending",
-      "body_sha256": "336d6dea2f31ee02600da0e7dd0d4824ea677b2185ef5fe8e350d976b7c96a71"
+      "review": "reviewed",
+      "body_sha256": "336d6dea2f31ee02600da0e7dd0d4824ea677b2185ef5fe8e350d976b7c96a71",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/marpole/print/",
@@ -2138,8 +2202,12 @@
         "vw-open-data:marpole:land:assessed-total-2026-median",
         "vw-open-data:marpole:strata:assessed-total-2026-median"
       ],
-      "review": "pending",
-      "body_sha256": "6d8d56907e39a00cb2969a6e7973db27503a8d45a27d4dfb02bcc4f8184ed510"
+      "review": "reviewed",
+      "body_sha256": "6d8d56907e39a00cb2969a6e7973db27503a8d45a27d4dfb02bcc4f8184ed510",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/assessment-appeal/",
@@ -2158,8 +2226,12 @@
         "home-guide:assessment-appeal:a5",
         "home-guide:assessment-appeal:a6"
       ],
-      "review": "pending",
-      "body_sha256": "f7e18384badef738428edf5e5a87e7307e761a96fa611d7288bd8c8a35da4bb6"
+      "review": "reviewed",
+      "body_sha256": "f7e18384badef738428edf5e5a87e7307e761a96fa611d7288bd8c8a35da4bb6",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/vancouver-tax-rates/",
@@ -2188,8 +2260,12 @@
         "home-guide:vancouver-tax-rates:r16",
         "home-guide:vancouver-tax-rates:r11"
       ],
-      "review": "pending",
-      "body_sha256": "6676fade06e1b549885b0ddb3e3245c9ae9700b3ce69bdc532fc67c193584922"
+      "review": "reviewed",
+      "body_sha256": "6676fade06e1b549885b0ddb3e3245c9ae9700b3ce69bdc532fc67c193584922",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/first-year-calendar/",
@@ -2216,8 +2292,12 @@
         "home-guide:first-year-calendar:c10",
         "home-guide:first-year-calendar:c11"
       ],
-      "review": "pending",
-      "body_sha256": "bb7b94df84f9b3e1df9ac58ae8894517f45b77a45642ad156e6b59ab1743b33f"
+      "review": "reviewed",
+      "body_sha256": "bb7b94df84f9b3e1df9ac58ae8894517f45b77a45642ad156e6b59ab1743b33f",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/sewer-drainage/",
@@ -2340,8 +2420,12 @@
         "home-guide:holding-costs-detached:m2",
         "home-guide:holding-costs-detached:m3"
       ],
-      "review": "pending",
-      "body_sha256": "1eb4385a6d381c13cfa1c68ead63ff31ed3346552b17f81f081a3e67aa91e8af"
+      "review": "reviewed",
+      "body_sha256": "1eb4385a6d381c13cfa1c68ead63ff31ed3346552b17f81f081a3e67aa91e8af",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/property-tax/",
@@ -2385,8 +2469,12 @@
         "home-guide:property-tax:ta2",
         "home-guide:property-tax:ta6"
       ],
-      "review": "pending",
-      "body_sha256": "fce5e492459ef2294c8914071108139dea96c6fe5c2486793487e7a84072ae5c"
+      "review": "reviewed",
+      "body_sha256": "fce5e492459ef2294c8914071108139dea96c6fe5c2486793487e7a84072ae5c",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/strata-older-buildings/",
@@ -2484,8 +2572,12 @@
         "home-guide:short-term-rental:vanFine",
         "home-guide:short-term-rental:platform"
       ],
-      "review": "pending",
-      "body_sha256": "3dc9d6e1bd4a376c5ef5b9e36956bf38f2a6ba8f481cab2f007f5d54712ef134"
+      "review": "reviewed",
+      "body_sha256": "3dc9d6e1bd4a376c5ef5b9e36956bf38f2a6ba8f481cab2f007f5d54712ef134",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/strata-rental-rules/",
@@ -2511,8 +2603,12 @@
         "home-guide:strata-rental-rules:fine",
         "home-guide:strata-rental-rules:def"
       ],
-      "review": "pending",
-      "body_sha256": "dc948d2fb28240887b30ce0295534a2d0180293d55059772843e0f60c49b4427"
+      "review": "reviewed",
+      "body_sha256": "dc948d2fb28240887b30ce0295534a2d0180293d55059772843e0f60c49b4427",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/landlord-bc/",
@@ -2541,8 +2637,12 @@
         "home-guide:landlord-bc:t11",
         "home-guide:landlord-bc:t12"
       ],
-      "review": "pending",
-      "body_sha256": "c1c86e3a44dc3aee78d03217ce65bcb42ddd89b17e95ecb42f3312bd81e08014"
+      "review": "reviewed",
+      "body_sha256": "c1c86e3a44dc3aee78d03217ce65bcb42ddd89b17e95ecb42f3312bd81e08014",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/suite-rental/",
@@ -2661,8 +2761,12 @@
         "home-guide:foreign-buyer-ban:svt1",
         "home-guide:foreign-buyer-ban:svt27"
       ],
-      "review": "pending",
-      "body_sha256": "622f6d51a0312d400dac37868ab4e439a075884278ef5f704d543e5359501923"
+      "review": "reviewed",
+      "body_sha256": "622f6d51a0312d400dac37868ab4e439a075884278ef5f704d543e5359501923",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/selling-tax/",
@@ -2695,8 +2799,12 @@
         "home-guide:selling-tax:ten",
         "home-guide:selling-tax:wh"
       ],
-      "review": "pending",
-      "body_sha256": "e6b32886431ad0d9255d74c4c6db6a94d5524557731f10fb624c3c1c8b1b85d4"
+      "review": "reviewed",
+      "body_sha256": "e6b32886431ad0d9255d74c4c6db6a94d5524557731f10fb624c3c1c8b1b85d4",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/corporate-trust-purchase/",
@@ -2732,8 +2840,12 @@
         "home-guide:corporate-trust-purchase:svt1",
         "home-guide:corporate-trust-purchase:svtcorp"
       ],
-      "review": "pending",
-      "body_sha256": "04ddb237765d03ad61c8b38d9c0248eb0ab2aeaf5d1c3132443ea9050772584a"
+      "review": "reviewed",
+      "body_sha256": "04ddb237765d03ad61c8b38d9c0248eb0ab2aeaf5d1c3132443ea9050772584a",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/first-time-buyer/",
@@ -2770,8 +2882,12 @@
         "home-guide:first-time-buyer:hba",
         "home-guide:first-time-buyer:hbanon"
       ],
-      "review": "pending",
-      "body_sha256": "9984b131773537f6c522a0089240b2876c037e753436e7b6e450ea972775d9b4"
+      "review": "reviewed",
+      "body_sha256": "9984b131773537f6c522a0089240b2876c037e753436e7b6e450ea972775d9b4",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/court-ordered-sale/",
@@ -2825,8 +2941,12 @@
         "home-guide:estate-probate-purchase:stig",
         "home-guide:estate-probate-purchase:own"
       ],
-      "review": "pending",
-      "body_sha256": "d142fc5b695524079906dec39d43115b815df7e1a98b5d58b2036f9f4ce5398a"
+      "review": "reviewed",
+      "body_sha256": "d142fc5b695524079906dec39d43115b815df7e1a98b5d58b2036f9f4ce5398a",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/tenanted-purchase/",
@@ -2852,8 +2972,12 @@
         "home-guide:tenanted-purchase:pen",
         "home-guide:tenanted-purchase:dep"
       ],
-      "review": "pending",
-      "body_sha256": "880b2927f65d43c085b6da37e43e7b849c5ac3859d22ac6635a6caff4e64a0c6"
+      "review": "reviewed",
+      "body_sha256": "880b2927f65d43c085b6da37e43e7b849c5ac3859d22ac6635a6caff4e64a0c6",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/rent-vs-buy/",
@@ -2873,8 +2997,12 @@
         "home-guide:rent-vs-buy:pttann",
         "home-guide:rent-vs-buy:sc"
       ],
-      "review": "pending",
-      "body_sha256": "ef16a8be7ffbd7802d7cd729548f9dda64c67ef4382b7dddccdbfb05ee4bc4f4"
+      "review": "reviewed",
+      "body_sha256": "ef16a8be7ffbd7802d7cd729548f9dda64c67ef4382b7dddccdbfb05ee4bc4f4",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/new-build-warranty/",
@@ -2955,8 +3083,12 @@
         "home-guide:condo-vs-detached:d2",
         "home-guide:condo-vs-detached:r1"
       ],
-      "review": "pending",
-      "body_sha256": "371fe3d05619d19503ea15088db47d1e0a30c5aa0021262d2a34f4677601c01c"
+      "review": "reviewed",
+      "body_sha256": "371fe3d05619d19503ea15088db47d1e0a30c5aa0021262d2a34f4677601c01c",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/mortgage-rules/",
@@ -3056,8 +3188,12 @@
         "home-guide:presale-assignment:t17",
         "home-guide:presale-assignment:t14"
       ],
-      "review": "pending",
-      "body_sha256": "95f58a6bf025408ed8110de15a4e0c85d64376cf9bb09847b51e3db8d81be8d8"
+      "review": "reviewed",
+      "body_sha256": "95f58a6bf025408ed8110de15a4e0c85d64376cf9bb09847b51e3db8d81be8d8",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/school-enrolment-rules/",
@@ -4205,8 +4341,12 @@
         "home-guide:west-vancouver:x1",
         "home-guide:west-vancouver:x2"
       ],
-      "review": "pending",
-      "body_sha256": "84706d09e489bf9c017a7fb8009eb287cf8708a5d1888f084725da815a87726c"
+      "review": "reviewed",
+      "body_sha256": "84706d09e489bf9c017a7fb8009eb287cf8708a5d1888f084725da815a87726c",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/north-vancouver/",
@@ -4471,8 +4611,12 @@
       "file": "home/guide/index.html",
       "kind": "home",
       "section": "guide-index",
-      "review": "pending",
-      "body_sha256": "b385216c9f386ca65432138e18a26c9db558dc4e2aa42125f88a455b9ed45821"
+      "review": "reviewed",
+      "body_sha256": "b385216c9f386ca65432138e18a26c9db558dc4e2aa42125f88a455b9ed45821",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/era/planner/",
@@ -4490,8 +4634,12 @@
         "home-guide:new-build-warranty:w3",
         "home-guide:new-build-warranty:w4"
       ],
-      "review": "pending",
-      "body_sha256": "93d9c0e646a7be919ed76e2c34e2dd0afe7036ab9fc8bc0193a9e649feb22bd1"
+      "review": "reviewed",
+      "body_sha256": "93d9c0e646a7be919ed76e2c34e2dd0afe7036ab9fc8bc0193a9e649feb22bd1",
+      "review_receipt": {
+        "reviewer": "微出国编辑部",
+        "date": "2026-10-22"
+      }
     },
     {
       "route": "/veryvisa-com-site/immigration/express-entry-or-bc-pnp/",
