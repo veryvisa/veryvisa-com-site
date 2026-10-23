@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T05:29:02.673Z",
+  "generated": "2026-10-23T05:57:07.404Z",
   "allowedTop": [
     "tax",
     "property",
@@ -21,6 +21,254 @@
     "en",
     "cards",
     "home"
+  ],
+  "publish_placeholders": false,
+  "hidden": [
+    {
+      "id": "lc-09",
+      "route": "/veryvisa-com-site/life-insurance/surrender-old-policy/",
+      "short": "/veryvisa-com-site/q/lc-09/",
+      "vertical": "人寿与重疾",
+      "title": "旧保单要不要退：损失与税务"
+    },
+    {
+      "id": "cb-01",
+      "route": "/veryvisa-com-site/cross-border/remit-money-from-china/",
+      "short": "/veryvisa-com-site/q/cb-01/",
+      "vertical": "跨境家庭与资产",
+      "title": "从国内汇钱到加拿大，怎样留好证明"
+    },
+    {
+      "id": "re-10",
+      "route": "/veryvisa-com-site/property/principal-residence-exemption/",
+      "short": "/veryvisa-com-site/q/re-10/",
+      "vertical": "房产",
+      "title": "卖自住房要交资本利得税吗"
+    },
+    {
+      "id": "re-03",
+      "route": "/veryvisa-com-site/property/temporary-resident-buy-home-bc/",
+      "short": "/veryvisa-com-site/q/re-03/",
+      "vertical": "房产",
+      "title": "持工签学签能在 BC 买房吗"
+    },
+    {
+      "id": "pi-07",
+      "route": "/veryvisa-com-site/insurance/icbc-newcomer-driving-experience/",
+      "short": "/veryvisa-com-site/q/pi-07/",
+      "vertical": "普通保险",
+      "title": "新移民在 BC 买车险，国内驾龄怎样算"
+    },
+    {
+      "id": "re-08",
+      "route": "/veryvisa-com-site/property/home-inspection-red-flags/",
+      "short": "/veryvisa-com-site/q/re-08/",
+      "vertical": "房产",
+      "title": "验房报告里哪些问题最要紧"
+    },
+    {
+      "id": "tax-05",
+      "route": "/veryvisa-com-site/tax/sell-property-in-china-canada-tax/",
+      "short": "/veryvisa-com-site/q/tax-05/",
+      "vertical": "税务",
+      "title": "卖掉国内的房子，在加拿大要交税吗"
+    },
+    {
+      "id": "cb-06",
+      "route": "/veryvisa-com-site/cross-border/executor-duties-bc/",
+      "short": "/veryvisa-com-site/q/cb-06/",
+      "vertical": "跨境家庭与资产",
+      "title": "担任遗嘱执行人，要办哪些事、报哪些税"
+    },
+    {
+      "id": "cb-02",
+      "route": "/veryvisa-com-site/cross-border/assets-before-immigrating/",
+      "short": "/veryvisa-com-site/q/cb-02/",
+      "vertical": "跨境家庭与资产",
+      "title": "移民前国内资产怎样处理"
+    },
+    {
+      "id": "tax-03",
+      "route": "/veryvisa-com-site/tax/late-t1135-vdp/",
+      "short": "/veryvisa-com-site/q/tax-03/",
+      "vertical": "税务",
+      "title": "漏报 T1135，补报与自愿披露怎样走"
+    },
+    {
+      "id": "re-05",
+      "route": "/veryvisa-com-site/property/fixed-or-variable-mortgage/",
+      "short": "/veryvisa-com-site/q/re-05/",
+      "vertical": "房产",
+      "title": "按揭选固定还是浮动，罚金怎样算"
+    },
+    {
+      "id": "pi-10",
+      "route": "/veryvisa-com-site/insurance/condo-strata-insurance-gap/",
+      "short": "/veryvisa-com-site/q/pi-10/",
+      "vertical": "普通保险",
+      "title": "公寓有大楼保险，自己还要买吗"
+    },
+    {
+      "id": "tax-17",
+      "route": "/veryvisa-com-site/tax/side-income-gst-registration/",
+      "short": "/veryvisa-com-site/q/tax-17/",
+      "vertical": "税务",
+      "title": "副业与自雇收入怎样报税、何时注册 GST"
+    },
+    {
+      "id": "lc-06",
+      "route": "/veryvisa-com-site/life-insurance/life-insurance-underwriting/",
+      "short": "/veryvisa-com-site/q/lc-06/",
+      "vertical": "人寿与重疾",
+      "title": "投保要体检吗，核保看什么"
+    },
+    {
+      "id": "re-09",
+      "route": "/veryvisa-com-site/property/parents-gift-down-payment/",
+      "short": "/veryvisa-com-site/q/re-09/",
+      "vertical": "房产",
+      "title": "父母出首付，赠与信与汇款证明"
+    },
+    {
+      "id": "pi-05",
+      "route": "/veryvisa-com-site/insurance/visitor-insurance-claims/",
+      "short": "/veryvisa-com-site/q/pi-05/",
+      "vertical": "普通保险",
+      "title": "父母看急诊住院，访客险怎样理赔"
+    },
+    {
+      "id": "bf-02",
+      "route": "/veryvisa-com-site/benefits/ccb-reduced-repayment/",
+      "short": "/veryvisa-com-site/q/bf-02/",
+      "vertical": "福利与补助",
+      "title": "牛奶金被减、要退钱的常见原因"
+    },
+    {
+      "id": "pi-08",
+      "route": "/veryvisa-com-site/insurance/icbc-basic-and-optional/",
+      "short": "/veryvisa-com-site/q/pi-08/",
+      "vertical": "普通保险",
+      "title": "ICBC 基本险与可选险怎样搭配"
+    },
+    {
+      "id": "tax-06",
+      "route": "/veryvisa-com-site/tax/cra-review-letter-receipts/",
+      "short": "/veryvisa-com-site/q/tax-06/",
+      "vertical": "税务",
+      "title": "收到 CRA 审查信要交收据，怎样回复"
+    },
+    {
+      "id": "re-06",
+      "route": "/veryvisa-com-site/property/rent-or-buy-calculator/",
+      "short": "/veryvisa-com-site/q/re-06/",
+      "vertical": "房产",
+      "title": "买房还是继续租房，怎样算"
+    },
+    {
+      "id": "im-12",
+      "route": "/veryvisa-com-site/immigration/medical-police-eca/",
+      "short": "/veryvisa-com-site/q/im-12/",
+      "vertical": "签证与移民",
+      "title": "移民体检、无犯罪证明与学历认证"
+    },
+    {
+      "id": "im-04",
+      "route": "/veryvisa-com-site/immigration/citizenship-1095-days/",
+      "short": "/veryvisa-com-site/q/im-04/",
+      "vertical": "签证与移民",
+      "title": "入籍要住满多少天，考什么"
+    },
+    {
+      "id": "nc-03",
+      "route": "/veryvisa-com-site/newcomer/exchange-driver-licence-bc/",
+      "short": "/veryvisa-com-site/q/nc-03/",
+      "vertical": "新移民落地",
+      "title": "国内驾照怎样换 BC 驾照"
+    },
+    {
+      "id": "im-07",
+      "route": "/veryvisa-com-site/immigration/restoration-of-status/",
+      "short": "/veryvisa-com-site/q/im-07/",
+      "vertical": "签证与移民",
+      "title": "身份过期后，90 天内能否恢复"
+    },
+    {
+      "id": "ed-01",
+      "route": "/veryvisa-com-site/education/resp-cesg-grants/",
+      "short": "/veryvisa-com-site/q/ed-01/",
+      "vertical": "子女教育",
+      "title": "RESP 怎样开，政府补助每年多少"
+    },
+    {
+      "id": "bk-02",
+      "route": "/veryvisa-com-site/banking/tfsa-room-newcomer/",
+      "short": "/veryvisa-com-site/q/bk-02/",
+      "vertical": "银行账户与投资",
+      "title": "TFSA 额度怎样算，新移民从哪年开始"
+    },
+    {
+      "id": "lc-07",
+      "route": "/veryvisa-com-site/life-insurance/two-year-contestability/",
+      "short": "/veryvisa-com-site/q/lc-07/",
+      "vertical": "人寿与重疾",
+      "title": "投保时漏报的病，两年后还会被拒赔吗"
+    },
+    {
+      "id": "re-11",
+      "route": "/veryvisa-com-site/property/add-child-to-title/",
+      "short": "/veryvisa-com-site/q/re-11/",
+      "vertical": "房产",
+      "title": "房产加上子女名字的税务与产权风险"
+    },
+    {
+      "id": "rt-05",
+      "route": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/",
+      "short": "/veryvisa-com-site/q/rt-05/",
+      "vertical": "退休与养老",
+      "title": "退休后先动哪个账户，怎样避免 OAS 回收"
+    },
+    {
+      "id": "tax-07",
+      "route": "/veryvisa-com-site/tax/cra-objection-deadline/",
+      "short": "/veryvisa-com-site/q/tax-07/",
+      "vertical": "税务",
+      "title": "不服 CRA 重新评税，怎样提异议"
+    },
+    {
+      "id": "nc-01",
+      "route": "/veryvisa-com-site/newcomer/first-week-after-landing/",
+      "short": "/veryvisa-com-site/q/nc-01/",
+      "vertical": "新移民落地",
+      "title": "落地第一周要办哪些事"
+    },
+    {
+      "id": "pi-06",
+      "route": "/veryvisa-com-site/insurance/msp-waiting-period-coverage/",
+      "short": "/veryvisa-com-site/q/pi-06/",
+      "vertical": "普通保险",
+      "title": "MSP 等待期内，要不要买私人医疗险"
+    },
+    {
+      "id": "im-05",
+      "route": "/veryvisa-com-site/immigration/prtd-expired-pr-card-abroad/",
+      "short": "/veryvisa-com-site/q/im-05/",
+      "vertical": "签证与移民",
+      "title": "人在国外枫叶卡过期，怎样回加拿大"
+    },
+    {
+      "id": "sc-04",
+      "route": "/veryvisa-com-site/scams/investment-scam-check/",
+      "short": "/veryvisa-com-site/q/sc-04/",
+      "vertical": "防骗与辟谣",
+      "title": "微信群里的「稳赚高息」投资怎样查证"
+    },
+    {
+      "id": "pi-03",
+      "route": "/veryvisa-com-site/insurance/visitor-insurance-60-day-quotes/",
+      "short": "/veryvisa-com-site/q/pi-03/",
+      "vertical": "普通保险",
+      "title": "60 多岁父母 60 天访客险的实测报价"
+    }
   ],
   "pages": [
     {
@@ -46,11 +294,6 @@
     {
       "route": "/veryvisa-com-site/start/new-baby/",
       "file": "start/new-baby/index.html",
-      "kind": "page"
-    },
-    {
-      "route": "/veryvisa-com-site/start/small-business/",
-      "file": "start/small-business/index.html",
       "kind": "page"
     },
     {
@@ -128,27 +371,35 @@
       "file": "home/index.html",
       "kind": "home",
       "section": "index",
-      "facts_used": []
+      "facts_used": [],
+      "review": "pending",
+      "body_sha256": "f3c719254a8e499728a1fa3e0789ce4f1e8eeaad73dc007fa5754b39dd21320a"
     },
     {
       "route": "/veryvisa-com-site/home/era/strata/",
       "file": "home/era/strata/index.html",
       "kind": "home",
       "section": "era-strata",
-      "facts_used": []
+      "facts_used": [],
+      "review": "pending",
+      "body_sha256": "68fae764c7845f34ed0ca2c465eaf2ad044f2f93bc3426d58423e81a754a191f"
     },
     {
       "route": "/veryvisa-com-site/home/era/",
       "file": "home/era/index.html",
       "kind": "home",
       "section": "era",
-      "facts_used": []
+      "facts_used": [],
+      "review": "pending",
+      "body_sha256": "f4aaf4b05597b29a01c883103f2c04e46d1971301d7f7a5437309d5215656785"
     },
     {
       "route": "/veryvisa-com-site/home/brief/",
       "file": "home/brief/index.html",
       "kind": "home",
-      "section": "brief"
+      "section": "brief",
+      "review": "pending",
+      "body_sha256": "e0600b23bcd49b25d5334eaf1c8506cdaa5159e39de47380dcbd404cde188c2b"
     },
     {
       "route": "/veryvisa-com-site/home/search/",
@@ -157,7 +408,9 @@
       "section": "search",
       "facts_used": [
         "vw-catchments:status"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "911cbba787d7f23994d887e34ace5c765b85180491aa35b96eec0111525effb4"
     },
     {
       "route": "/veryvisa-com-site/home/schools/",
@@ -166,7 +419,9 @@
       "section": "schools",
       "facts_used": [
         "vw-catchments:status"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "ad7635e21e413aa2172e167348a49a5c1bebdc0515299129704c005139a82c22"
     },
     {
       "route": "/veryvisa-com-site/home/schools/bayview-community-elementary/",
@@ -193,7 +448,9 @@
         "vw-school:bayview-community-elementary:fsa-10",
         "vw-school:bayview-community-elementary:fsa-11",
         "vw-school:bayview-community-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "74bbe6b46eedd5715596cb09ed702fde28dc73d8f7595016f563c9cb9a9e34d1"
     },
     {
       "route": "/veryvisa-com-site/home/schools/carnarvon-community-elementary/",
@@ -220,7 +477,9 @@
         "vw-school:carnarvon-community-elementary:fsa-10",
         "vw-school:carnarvon-community-elementary:fsa-11",
         "vw-school:carnarvon-community-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "33f4d2e18d9868051baba5c84e06522a82545b7630c73877918a0b4e681394af"
     },
     {
       "route": "/veryvisa-com-site/home/schools/david-lloyd-george-elementary/",
@@ -247,7 +506,9 @@
         "vw-school:david-lloyd-george-elementary:fsa-10",
         "vw-school:david-lloyd-george-elementary:fsa-11",
         "vw-school:david-lloyd-george-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "19763dd6b7bac556ad7abe318a06424e8dee3f9e907992532f9e6832e8bfe5d0"
     },
     {
       "route": "/veryvisa-com-site/home/schools/dr-annie-b-jamieson-elementary/",
@@ -274,7 +535,9 @@
         "vw-school:dr-annie-b-jamieson-elementary:fsa-10",
         "vw-school:dr-annie-b-jamieson-elementary:fsa-11",
         "vw-school:dr-annie-b-jamieson-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "72e3d975e6b24f50c56a8f64fa365b0a9c7ffe6946aa5a137cfb3c06998e755b"
     },
     {
       "route": "/veryvisa-com-site/home/schools/dr-r-e-mckechnie-elementary/",
@@ -301,7 +564,9 @@
         "vw-school:dr-r-e-mckechnie-elementary:fsa-10",
         "vw-school:dr-r-e-mckechnie-elementary:fsa-11",
         "vw-school:dr-r-e-mckechnie-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f2539e3711b58e7a11e0c2dc67a2beac6c87fed27cd04115077304018b3734bf"
     },
     {
       "route": "/veryvisa-com-site/home/schools/ecole-jules-quesnel-elementary/",
@@ -328,7 +593,9 @@
         "vw-school:ecole-jules-quesnel-elementary:fsa-10",
         "vw-school:ecole-jules-quesnel-elementary:fsa-11",
         "vw-school:ecole-jules-quesnel-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "7369024dc1b8f10dced5aa947f470e61684be286b1f027654baf32a7b2fb61c7"
     },
     {
       "route": "/veryvisa-com-site/home/schools/edith-cavell-elementary/",
@@ -355,7 +622,9 @@
         "vw-school:edith-cavell-elementary:fsa-10",
         "vw-school:edith-cavell-elementary:fsa-11",
         "vw-school:edith-cavell-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "2632c698723fe10547e0eac0b7849232cae58b8cb6766518c7baacc7bdd4f668"
     },
     {
       "route": "/veryvisa-com-site/home/schools/emily-carr-elementary/",
@@ -382,7 +651,9 @@
         "vw-school:emily-carr-elementary:fsa-10",
         "vw-school:emily-carr-elementary:fsa-11",
         "vw-school:emily-carr-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "d7292c05732d12d111d28f82fc9c69151dba2bf63b984e76332f015dde84525a"
     },
     {
       "route": "/veryvisa-com-site/home/schools/eric-hamber-secondary/",
@@ -397,7 +668,9 @@
         "vw-school:eric-hamber-secondary:nearby-area",
         "vw-school:eric-hamber-secondary:nearby-frontage",
         "vw-school:eric-hamber-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "7798ec09b470db308d3e55586188320c3965edf6a43a5a6ef96260476167d5ed"
     },
     {
       "route": "/veryvisa-com-site/home/schools/false-creek-elementary/",
@@ -424,7 +697,9 @@
         "vw-school:false-creek-elementary:fsa-10",
         "vw-school:false-creek-elementary:fsa-11",
         "vw-school:false-creek-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "8f52303bd61823f3bf989692b6823756d8ea2c29c741d4237e6568b2575ce1e9"
     },
     {
       "route": "/veryvisa-com-site/home/schools/general-gordon-elementary/",
@@ -451,7 +726,9 @@
         "vw-school:general-gordon-elementary:fsa-10",
         "vw-school:general-gordon-elementary:fsa-11",
         "vw-school:general-gordon-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "e6f704989a679d292b58e287fd93b356cbaf2a38ff74db9e590bd5a97727ccae"
     },
     {
       "route": "/veryvisa-com-site/home/schools/henry-hudson-elementary/",
@@ -478,7 +755,9 @@
         "vw-school:henry-hudson-elementary:fsa-10",
         "vw-school:henry-hudson-elementary:fsa-11",
         "vw-school:henry-hudson-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b03e4520fd02c428b7b9735e7501f154d9c9a53060b312c731539393e7078ba9"
     },
     {
       "route": "/veryvisa-com-site/home/schools/j-w-sexsmith-community-elementary/",
@@ -505,7 +784,9 @@
         "vw-school:j-w-sexsmith-community-elementary:fsa-10",
         "vw-school:j-w-sexsmith-community-elementary:fsa-11",
         "vw-school:j-w-sexsmith-community-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "331e055459f589bd3abf8aaf515417a3014298e74c03b2b63a48d0b47f49b317"
     },
     {
       "route": "/veryvisa-com-site/home/schools/kerrisdale-annex/",
@@ -532,7 +813,9 @@
         "vw-school:kerrisdale-annex:fsa-10",
         "vw-school:kerrisdale-annex:fsa-11",
         "vw-school:kerrisdale-annex:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "090ae39daaababebc148e11ef7e0aa6c9bf5e2499979cd0e906b144aa800cbc7"
     },
     {
       "route": "/veryvisa-com-site/home/schools/kerrisdale-elementary/",
@@ -547,7 +830,9 @@
         "vw-school:kerrisdale-elementary:nearby-area",
         "vw-school:kerrisdale-elementary:nearby-frontage",
         "vw-school:kerrisdale-elementary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "412a79c9b7ef25f8274b68a6eecf4aeae6c203085bdbffc6560512e6d177771f"
     },
     {
       "route": "/veryvisa-com-site/home/schools/kitsilano-secondary/",
@@ -562,7 +847,9 @@
         "vw-school:kitsilano-secondary:nearby-area",
         "vw-school:kitsilano-secondary:nearby-frontage",
         "vw-school:kitsilano-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "22f3a33b3f229088aaaced8bf95e9b11fe734c55ec435a96ebf10c4a27547ae0"
     },
     {
       "route": "/veryvisa-com-site/home/schools/l-ecole-bilingue-elementary/",
@@ -589,7 +876,9 @@
         "vw-school:l-ecole-bilingue-elementary:fsa-10",
         "vw-school:l-ecole-bilingue-elementary:fsa-11",
         "vw-school:l-ecole-bilingue-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "534711425fface72461d394844cc7ffb780b0e78187a530fff4f0cbd0bc22dbf"
     },
     {
       "route": "/veryvisa-com-site/home/schools/lord-byng-secondary/",
@@ -604,7 +893,9 @@
         "vw-school:lord-byng-secondary:nearby-area",
         "vw-school:lord-byng-secondary:nearby-frontage",
         "vw-school:lord-byng-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "ba5d8b1e131060d1dd24b61ff2aa7f12299da063ff11f6b5347ee4b68d3ab040"
     },
     {
       "route": "/veryvisa-com-site/home/schools/lord-kitchener-elementary/",
@@ -631,7 +922,9 @@
         "vw-school:lord-kitchener-elementary:fsa-10",
         "vw-school:lord-kitchener-elementary:fsa-11",
         "vw-school:lord-kitchener-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "cdd45a8e148179ce3aceca7bb8357d7a963b56278a25e9500803ff3da592d435"
     },
     {
       "route": "/veryvisa-com-site/home/schools/lord-tennyson-elementary/",
@@ -658,7 +951,9 @@
         "vw-school:lord-tennyson-elementary:fsa-10",
         "vw-school:lord-tennyson-elementary:fsa-11",
         "vw-school:lord-tennyson-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "824b668f7b8d08893bdd16e6da52a61caf9df27ef8af834a9ad7bb3ee3bce2c9"
     },
     {
       "route": "/veryvisa-com-site/home/schools/magee-secondary/",
@@ -673,7 +968,9 @@
         "vw-school:magee-secondary:nearby-area",
         "vw-school:magee-secondary:nearby-frontage",
         "vw-school:magee-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "a2148228d60c293f82881fb97f510e738f688a753de677a69e0c67cda4dee5b9"
     },
     {
       "route": "/veryvisa-com-site/home/schools/maple-grove-elementary/",
@@ -700,7 +997,9 @@
         "vw-school:maple-grove-elementary:fsa-10",
         "vw-school:maple-grove-elementary:fsa-11",
         "vw-school:maple-grove-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "a50e9f2ee6d8cb06df01c267d86220d461fd209dce0d4b453f03679a0fa920f3"
     },
     {
       "route": "/veryvisa-com-site/home/schools/norma-rose-point-school/",
@@ -715,7 +1014,9 @@
         "vw-school:norma-rose-point-school:nearby-area",
         "vw-school:norma-rose-point-school:nearby-frontage",
         "vw-school:norma-rose-point-school:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "7250b338afdb052567a6f871db91142d72c288e3fab7a53511424f3adc7a5790"
     },
     {
       "route": "/veryvisa-com-site/home/schools/point-grey-secondary/",
@@ -730,7 +1031,9 @@
         "vw-school:point-grey-secondary:nearby-area",
         "vw-school:point-grey-secondary:nearby-frontage",
         "vw-school:point-grey-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "86e88e3006e3aa77b38101e8458b8aaa42eef3f41f2c1274e85a7d46ae43ad29"
     },
     {
       "route": "/veryvisa-com-site/home/schools/prince-of-wales-secondary/",
@@ -745,7 +1048,9 @@
         "vw-school:prince-of-wales-secondary:nearby-area",
         "vw-school:prince-of-wales-secondary:nearby-frontage",
         "vw-school:prince-of-wales-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "c76424bdb4a64302d033f940b3819114c4082f5dc90cd807b4283972b46792fd"
     },
     {
       "route": "/veryvisa-com-site/home/schools/queen-elizabeth-elementary/",
@@ -760,7 +1065,9 @@
         "vw-school:queen-elizabeth-elementary:nearby-area",
         "vw-school:queen-elizabeth-elementary:nearby-frontage",
         "vw-school:queen-elizabeth-elementary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "8384942b821db25287050eed452be7bb8fb97a713b1d632ec0749686e97b46b1"
     },
     {
       "route": "/veryvisa-com-site/home/schools/queen-mary-elementary/",
@@ -787,7 +1094,9 @@
         "vw-school:queen-mary-elementary:fsa-10",
         "vw-school:queen-mary-elementary:fsa-11",
         "vw-school:queen-mary-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b61ffd2a1e4fd56c2bb9844a9524addc571c41d48b544aa7f42d9d32de4b364d"
     },
     {
       "route": "/veryvisa-com-site/home/schools/quilchena-elementary/",
@@ -814,7 +1123,9 @@
         "vw-school:quilchena-elementary:fsa-10",
         "vw-school:quilchena-elementary:fsa-11",
         "vw-school:quilchena-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "9b410015cc5a06cbb87ab9dfcfd25380a60083873218690115592e55354d3a37"
     },
     {
       "route": "/veryvisa-com-site/home/schools/shaughnessy-elementary/",
@@ -841,7 +1152,9 @@
         "vw-school:shaughnessy-elementary:fsa-10",
         "vw-school:shaughnessy-elementary:fsa-11",
         "vw-school:shaughnessy-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "06a29bbb3953291b460dcfa9c7f51c0c65a0e94c8f826b63ea10e3c4ec4f2826"
     },
     {
       "route": "/veryvisa-com-site/home/schools/sir-wilfrid-laurier-elementary/",
@@ -856,7 +1169,9 @@
         "vw-school:sir-wilfrid-laurier-elementary:nearby-area",
         "vw-school:sir-wilfrid-laurier-elementary:nearby-frontage",
         "vw-school:sir-wilfrid-laurier-elementary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "ffb4f6e97ae6cd13d39a2dcb394333ce495a6511b7b73dc1a41d4ed795ec3a76"
     },
     {
       "route": "/veryvisa-com-site/home/schools/sir-william-osler-elementary/",
@@ -883,7 +1198,9 @@
         "vw-school:sir-william-osler-elementary:fsa-10",
         "vw-school:sir-william-osler-elementary:fsa-11",
         "vw-school:sir-william-osler-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "42610ec0e9dcd6db1a762899477097a3333676748ad3a6531a83e43ea8e65e72"
     },
     {
       "route": "/veryvisa-com-site/home/schools/sir-winston-churchill-secondary/",
@@ -898,7 +1215,9 @@
         "vw-school:sir-winston-churchill-secondary:nearby-area",
         "vw-school:sir-winston-churchill-secondary:nearby-frontage",
         "vw-school:sir-winston-churchill-secondary:nearby-year-built"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "8923e955341499c4506683234cf99f3a63e30c9296c5a148d7fdba4188466cf4"
     },
     {
       "route": "/veryvisa-com-site/home/schools/sir-wm-van-horne-elementary/",
@@ -925,7 +1244,9 @@
         "vw-school:sir-wm-van-horne-elementary:fsa-10",
         "vw-school:sir-wm-van-horne-elementary:fsa-11",
         "vw-school:sir-wm-van-horne-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "bd8e1b922fd650d702b424715d5d1f978b9036b5096f38813e7faf06ab290189"
     },
     {
       "route": "/veryvisa-com-site/home/schools/southlands-elementary/",
@@ -952,7 +1273,9 @@
         "vw-school:southlands-elementary:fsa-10",
         "vw-school:southlands-elementary:fsa-11",
         "vw-school:southlands-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f0c313cb226129fff6a78f235ca2ea94d524a139dbc6173d4d069b59eb9305cd"
     },
     {
       "route": "/veryvisa-com-site/home/schools/trafalgar-elementary/",
@@ -979,7 +1302,9 @@
         "vw-school:trafalgar-elementary:fsa-10",
         "vw-school:trafalgar-elementary:fsa-11",
         "vw-school:trafalgar-elementary:fsa-12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "2264349d177558eaffd425dbafdaa490f3fe17ed9abe4c6c6a3a6698d87a3e5d"
     },
     {
       "route": "/veryvisa-com-site/home/cost-calculator/",
@@ -1006,7 +1331,9 @@
         "pplx-verified:pplx-home-1017:01:19",
         "pplx-verified:pplx-home-1017:01:20",
         "pplx-verified:pplx-home-1017:01:21"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "84938e63c32a180769daa9ab8285ba02ae326d9c5407adeedf6ec4902e5fba1e"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/",
@@ -1094,7 +1421,9 @@
         "vw-open-data:marpole:strata:median-change-2021-2026",
         "vw-open-data:marpole:strata:land-share-median-2026",
         "vw-open-data:marpole:strata:count-2026"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "301f452226c23cca26050b9e948338d1c1567e4e5445d4419ad7401c574f3411"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kitsilano/",
@@ -1146,7 +1475,9 @@
         "vw-open-data:kitsilano:land:floodplain-parcels",
         "vw-open-data:kitsilano:strata:heritage-parcels",
         "vw-open-data:kitsilano:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "24f9918d9e1af23fb800d3effb1c59c2df7ca9aabd33ff81c96abf7f3ebf7e9a"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kitsilano/print/",
@@ -1159,7 +1490,9 @@
         "vw-open-data:kitsilano:land:permits-new-building",
         "vw-open-data:kitsilano:land:permits-demolition-deconstruction",
         "vw-open-data:kitsilano:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/west-point-grey/",
@@ -1211,7 +1544,9 @@
         "vw-open-data:west-point-grey:land:floodplain-parcels",
         "vw-open-data:west-point-grey:strata:heritage-parcels",
         "vw-open-data:west-point-grey:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "45258cc6a21a8b20374a0f13fbecf191d501b80b2326e8b707803c2e9c7098cc"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/west-point-grey/print/",
@@ -1224,7 +1559,9 @@
         "vw-open-data:west-point-grey:land:permits-new-building",
         "vw-open-data:west-point-grey:land:permits-demolition-deconstruction",
         "vw-open-data:west-point-grey:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/dunbar-southlands/",
@@ -1276,7 +1613,9 @@
         "vw-open-data:dunbar-southlands:land:floodplain-parcels",
         "vw-open-data:dunbar-southlands:strata:heritage-parcels",
         "vw-open-data:dunbar-southlands:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "155afe52e3b88c6bec846cd592c430a22277cc4f9c9a70e2e522becdc91dbde0"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/dunbar-southlands/print/",
@@ -1289,7 +1628,9 @@
         "vw-open-data:dunbar-southlands:land:permits-new-building",
         "vw-open-data:dunbar-southlands:land:permits-demolition-deconstruction",
         "vw-open-data:dunbar-southlands:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/arbutus-ridge/",
@@ -1341,7 +1682,9 @@
         "vw-open-data:arbutus-ridge:land:floodplain-parcels",
         "vw-open-data:arbutus-ridge:strata:heritage-parcels",
         "vw-open-data:arbutus-ridge:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "8ee981d14897495d019e5ddc1462f9d748af6d2947370f97936a03d6a1f25e70"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/arbutus-ridge/print/",
@@ -1354,7 +1697,9 @@
         "vw-open-data:arbutus-ridge:land:permits-new-building",
         "vw-open-data:arbutus-ridge:land:permits-demolition-deconstruction",
         "vw-open-data:arbutus-ridge:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kerrisdale/",
@@ -1406,7 +1751,9 @@
         "vw-open-data:kerrisdale:land:floodplain-parcels",
         "vw-open-data:kerrisdale:strata:heritage-parcels",
         "vw-open-data:kerrisdale:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "d1dd9b46d961452e269c6feaeb672c7ef17480b380c1863c99690c0a360e4562"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/kerrisdale/print/",
@@ -1419,7 +1766,9 @@
         "vw-open-data:kerrisdale:land:permits-new-building",
         "vw-open-data:kerrisdale:land:permits-demolition-deconstruction",
         "vw-open-data:kerrisdale:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/shaughnessy/",
@@ -1471,7 +1820,9 @@
         "vw-open-data:shaughnessy:land:floodplain-parcels",
         "vw-open-data:shaughnessy:strata:heritage-parcels",
         "vw-open-data:shaughnessy:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f23c8d1449bbb01f989914f07f6cc711a2a27ed7ab19e91ad35edf52e2162d96"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/shaughnessy/print/",
@@ -1484,7 +1835,9 @@
         "vw-open-data:shaughnessy:land:permits-new-building",
         "vw-open-data:shaughnessy:land:permits-demolition-deconstruction",
         "vw-open-data:shaughnessy:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/fairview/",
@@ -1536,7 +1889,9 @@
         "vw-open-data:fairview:land:floodplain-parcels",
         "vw-open-data:fairview:strata:heritage-parcels",
         "vw-open-data:fairview:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "02eea1c3ac776d4b99e50fefefe0b7890bc15aedf4cc019bd9a62059573a390f"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/fairview/print/",
@@ -1545,7 +1900,9 @@
       "section": "neighbourhood-print",
       "slug": "fairview",
       "license_source": "src/data/licensees.json",
-      "facts_used": []
+      "facts_used": [],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/south-cambie/",
@@ -1597,7 +1954,9 @@
         "vw-open-data:south-cambie:land:floodplain-parcels",
         "vw-open-data:south-cambie:strata:heritage-parcels",
         "vw-open-data:south-cambie:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "daf730d8616276d09e35daae1db2289852d58a8fdaf919407f22958857728d54"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/south-cambie/print/",
@@ -1610,7 +1969,9 @@
         "vw-open-data:south-cambie:land:permits-new-building",
         "vw-open-data:south-cambie:land:permits-demolition-deconstruction",
         "vw-open-data:south-cambie:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/oakridge/",
@@ -1662,7 +2023,9 @@
         "vw-open-data:oakridge:land:floodplain-parcels",
         "vw-open-data:oakridge:strata:heritage-parcels",
         "vw-open-data:oakridge:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "a42a8545a9308ece1980d21cb73e9a3b517b31c5585137e3ab192f6110339880"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/oakridge/print/",
@@ -1675,7 +2038,9 @@
         "vw-open-data:oakridge:land:permits-new-building",
         "vw-open-data:oakridge:land:permits-demolition-deconstruction",
         "vw-open-data:oakridge:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/marpole/",
@@ -1727,7 +2092,9 @@
         "vw-open-data:marpole:land:floodplain-parcels",
         "vw-open-data:marpole:strata:heritage-parcels",
         "vw-open-data:marpole:strata:floodplain-parcels"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "3852f787a78b0ea71bdb6c7827034a312e36f5459d53197a1371cc868cf75cf4"
     },
     {
       "route": "/veryvisa-com-site/home/vancouver-west/marpole/print/",
@@ -1740,7 +2107,9 @@
         "vw-open-data:marpole:land:permits-new-building",
         "vw-open-data:marpole:land:permits-demolition-deconstruction",
         "vw-open-data:marpole:land:permits-addition-alteration"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1e83051409ad05b6a8b77067fa73c21e3b18dab7d8482c19b6cf6d98a6741c18"
     },
     {
       "route": "/veryvisa-com-site/home/address-check/",
@@ -1768,7 +2137,9 @@
         "vw-open-data:oakridge:strata:assessed-total-2026-median",
         "vw-open-data:marpole:land:assessed-total-2026-median",
         "vw-open-data:marpole:strata:assessed-total-2026-median"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "6d8d56907e39a00cb2969a6e7973db27503a8d45a27d4dfb02bcc4f8184ed510"
     },
     {
       "route": "/veryvisa-com-site/home/guide/assessment-appeal/",
@@ -1786,7 +2157,9 @@
         "home-guide:assessment-appeal:a4",
         "home-guide:assessment-appeal:a5",
         "home-guide:assessment-appeal:a6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f7e18384badef738428edf5e5a87e7307e761a96fa611d7288bd8c8a35da4bb6"
     },
     {
       "route": "/veryvisa-com-site/home/guide/vancouver-tax-rates/",
@@ -1814,7 +2187,9 @@
         "home-guide:vancouver-tax-rates:r10",
         "home-guide:vancouver-tax-rates:r16",
         "home-guide:vancouver-tax-rates:r11"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "6676fade06e1b549885b0ddb3e3245c9ae9700b3ce69bdc532fc67c193584922"
     },
     {
       "route": "/veryvisa-com-site/home/guide/first-year-calendar/",
@@ -1840,7 +2215,9 @@
         "home-guide:first-year-calendar:c8",
         "home-guide:first-year-calendar:c10",
         "home-guide:first-year-calendar:c11"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "bb7b94df84f9b3e1df9ac58ae8894517f45b77a45642ad156e6b59ab1743b33f"
     },
     {
       "route": "/veryvisa-com-site/home/guide/sewer-drainage/",
@@ -1877,7 +2254,9 @@
         "home-guide:sewer-drainage:n5",
         "home-guide:sewer-drainage:n6",
         "home-guide:sewer-drainage:n7"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "cba301464ee5ce47af5566787d65399b797528b34e4ac3b5e688a52858f3f6d5"
     },
     {
       "route": "/veryvisa-com-site/home/guide/flood-coastal/",
@@ -1904,7 +2283,9 @@
         "home-guide:flood-coastal:i4",
         "home-guide:flood-coastal:i5",
         "home-guide:flood-coastal:i6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "c9c4581ba7501c4442bac414cc52dbeb4061421aa4c5c5b722e83371823dd6b5"
     },
     {
       "route": "/veryvisa-com-site/home/guide/pests-mould/",
@@ -1932,7 +2313,9 @@
         "home-guide:pests-mould:p15",
         "home-guide:pests-mould:p14",
         "home-guide:pests-mould:p12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "206c363d645bf0bc9925b79e875911615cbd20b3240e2e748a12558fb2cb4b8a"
     },
     {
       "route": "/veryvisa-com-site/home/guide/holding-costs-detached/",
@@ -1956,7 +2339,9 @@
         "home-guide:holding-costs-detached:m1",
         "home-guide:holding-costs-detached:m2",
         "home-guide:holding-costs-detached:m3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1eb4385a6d381c13cfa1c68ead63ff31ed3346552b17f81f081a3e67aa91e8af"
     },
     {
       "route": "/veryvisa-com-site/home/guide/property-tax/",
@@ -1999,7 +2384,9 @@
         "home-guide:property-tax:ta1",
         "home-guide:property-tax:ta2",
         "home-guide:property-tax:ta6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "fce5e492459ef2294c8914071108139dea96c6fe5c2486793487e7a84072ae5c"
     },
     {
       "route": "/veryvisa-com-site/home/guide/strata-older-buildings/",
@@ -2039,7 +2426,9 @@
         "home-guide:strata-older-buildings:e4",
         "home-guide:strata-older-buildings:e5",
         "home-guide:strata-older-buildings:e6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "e39df1ca323d0f4a2140465695092f209eb78561b801614865e0bf7309e35964"
     },
     {
       "route": "/veryvisa-com-site/home/guide/rental-investment/",
@@ -2068,7 +2457,9 @@
         "home-guide:rental-investment:cap",
         "home-guide:rental-investment:notice",
         "home-guide:rental-investment:gap"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b414459829699ee82a1e967b335c22478fb72a7589cf9b36d4a0170bf7c33698"
     },
     {
       "route": "/veryvisa-com-site/home/guide/short-term-rental/",
@@ -2092,7 +2483,9 @@
         "home-guide:short-term-rental:vanRenew",
         "home-guide:short-term-rental:vanFine",
         "home-guide:short-term-rental:platform"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "3dc9d6e1bd4a376c5ef5b9e36956bf38f2a6ba8f481cab2f007f5d54712ef134"
     },
     {
       "route": "/veryvisa-com-site/home/guide/strata-rental-rules/",
@@ -2117,7 +2510,9 @@
         "home-guide:strata-rental-rules:vote",
         "home-guide:strata-rental-rules:fine",
         "home-guide:strata-rental-rules:def"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "dc948d2fb28240887b30ce0295534a2d0180293d55059772843e0f60c49b4427"
     },
     {
       "route": "/veryvisa-com-site/home/guide/landlord-bc/",
@@ -2145,7 +2540,9 @@
         "home-guide:landlord-bc:t10",
         "home-guide:landlord-bc:t11",
         "home-guide:landlord-bc:t12"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "c1c86e3a44dc3aee78d03217ce65bcb42ddd89b17e95ecb42f3312bd81e08014"
     },
     {
       "route": "/veryvisa-com-site/home/guide/suite-rental/",
@@ -2166,7 +2563,9 @@
         "home-guide:suite-rental:ret",
         "home-guide:suite-rental:t6",
         "home-guide:suite-rental:t7"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "96adf37ee92393947989385708e48898707470a986dc17b69b07d9195f503b6f"
     },
     {
       "route": "/veryvisa-com-site/home/guide/stigmatized-property/",
@@ -2186,7 +2585,9 @@
         "home-guide:stigmatized-property:wcase",
         "home-guide:stigmatized-property:holding",
         "home-guide:stigmatized-property:ce"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "544105f9b142e25f65694035f37534643a622c62722f43897861fe1a9c0b3018"
     },
     {
       "route": "/veryvisa-com-site/home/guide/sale-disclosure-defects/",
@@ -2217,7 +2618,9 @@
         "home-guide:sale-disclosure-defects:patentcase",
         "home-guide:sale-disclosure-defects:lim",
         "home-guide:sale-disclosure-defects:crt"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "7fe5945d29aac3969fd14345c60da1f85b3764538d48e143c53d202e733d66e2"
     },
     {
       "route": "/veryvisa-com-site/home/guide/foreign-buyer-ban/",
@@ -2257,7 +2660,9 @@
         "home-guide:foreign-buyer-ban:svt3",
         "home-guide:foreign-buyer-ban:svt1",
         "home-guide:foreign-buyer-ban:svt27"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "622f6d51a0312d400dac37868ab4e439a075884278ef5f704d543e5359501923"
     },
     {
       "route": "/veryvisa-com-site/home/guide/selling-tax/",
@@ -2289,7 +2694,9 @@
         "home-guide:selling-tax:t2062",
         "home-guide:selling-tax:ten",
         "home-guide:selling-tax:wh"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "e6b32886431ad0d9255d74c4c6db6a94d5524557731f10fb624c3c1c8b1b85d4"
     },
     {
       "route": "/veryvisa-com-site/home/guide/corporate-trust-purchase/",
@@ -2324,7 +2731,9 @@
         "home-guide:corporate-trust-purchase:svt3",
         "home-guide:corporate-trust-purchase:svt1",
         "home-guide:corporate-trust-purchase:svtcorp"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "04ddb237765d03ad61c8b38d9c0248eb0ab2aeaf5d1c3132443ea9050772584a"
     },
     {
       "route": "/veryvisa-com-site/home/guide/first-time-buyer/",
@@ -2360,7 +2769,9 @@
         "home-guide:first-time-buyer:gstfthb",
         "home-guide:first-time-buyer:hba",
         "home-guide:first-time-buyer:hbanon"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "9984b131773537f6c522a0089240b2876c037e753436e7b6e450ea972775d9b4"
     },
     {
       "route": "/veryvisa-com-site/home/guide/court-ordered-sale/",
@@ -2385,7 +2796,9 @@
         "home-guide:court-ordered-sale:own",
         "home-guide:court-ordered-sale:noresp",
         "home-guide:court-ordered-sale:bona"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "20808a7f3eed9a97aaef4fd4a84677dcc04ca559c33a492c378689808b03b52b"
     },
     {
       "route": "/veryvisa-com-site/home/guide/estate-probate-purchase/",
@@ -2411,7 +2824,9 @@
         "home-guide:estate-probate-purchase:spouse",
         "home-guide:estate-probate-purchase:stig",
         "home-guide:estate-probate-purchase:own"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "bda47ddb88c39bf1f2893ea278bc961999c97c0f7aa4a5354375b83f28170476"
     },
     {
       "route": "/veryvisa-com-site/home/guide/tenanted-purchase/",
@@ -2436,7 +2851,9 @@
         "home-guide:tenanted-purchase:comp",
         "home-guide:tenanted-purchase:pen",
         "home-guide:tenanted-purchase:dep"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "880b2927f65d43c085b6da37e43e7b849c5ac3859d22ac6635a6caff4e64a0c6"
     },
     {
       "route": "/veryvisa-com-site/home/guide/rent-vs-buy/",
@@ -2455,7 +2872,9 @@
         "home-guide:rent-vs-buy:ptt1",
         "home-guide:rent-vs-buy:pttann",
         "home-guide:rent-vs-buy:sc"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "ef16a8be7ffbd7802d7cd729548f9dda64c67ef4382b7dddccdbfb05ee4bc4f4"
     },
     {
       "route": "/veryvisa-com-site/home/guide/new-build-warranty/",
@@ -2478,7 +2897,9 @@
         "home-guide:new-build-warranty:w8",
         "home-guide:new-build-warranty:w9",
         "home-guide:new-build-warranty:w10"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1732d567f28cd433a433bef01ae00a8208b0189a2e33f98473b8d574caa4d145"
     },
     {
       "route": "/veryvisa-com-site/home/guide/inspection-report-read/",
@@ -2504,7 +2925,9 @@
         "home-guide:inspection-report-read:i13",
         "home-guide:inspection-report-read:i8",
         "home-guide:inspection-report-read:i9"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "0132ea7dd0dc40192d919d1ae98f1fae5f896d9e79c0c839be71d113cf91ff23"
     },
     {
       "route": "/veryvisa-com-site/home/guide/condo-vs-detached/",
@@ -2531,7 +2954,9 @@
         "home-guide:condo-vs-detached:c2",
         "home-guide:condo-vs-detached:d2",
         "home-guide:condo-vs-detached:r1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "371fe3d05619d19503ea15088db47d1e0a30c5aa0021262d2a34f4677601c01c"
     },
     {
       "route": "/veryvisa-com-site/home/guide/mortgage-rules/",
@@ -2566,7 +2991,9 @@
         "pplx-verified:pplx-1017:09:124",
         "pplx-verified:pplx-1017:09:125",
         "pplx-verified:pplx-home-1017:00:10"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1d8fcd4240412e11d16fc85b6676d8e383eb038f810e5a013e8c30e6600db00e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/prepayment-penalty/",
@@ -2604,7 +3031,9 @@
         "home-guide:prepayment-penalty:q24",
         "home-guide:prepayment-penalty:q25",
         "home-guide:prepayment-penalty:q26"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "30c80bc4a5eb92be335a38bef1a5f562a84982d5baa420e961db7e1df96ca71f"
     },
     {
       "route": "/veryvisa-com-site/home/guide/presale-assignment/",
@@ -2626,7 +3055,9 @@
         "home-guide:presale-assignment:t10",
         "home-guide:presale-assignment:t17",
         "home-guide:presale-assignment:t14"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "95f58a6bf025408ed8110de15a4e0c85d64376cf9bb09847b51e3db8d81be8d8"
     },
     {
       "route": "/veryvisa-com-site/home/guide/school-enrolment-rules/",
@@ -2661,7 +3092,9 @@
         "home-guide:school-enrolment-rules:g4",
         "home-guide:school-enrolment-rules:g5",
         "home-guide:school-enrolment-rules:g6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "99aded866e84c2b15c02b180665cf1f81098a29063cace2bbcdb356203aeb500"
     },
     {
       "route": "/veryvisa-com-site/home/guide/title-insurance/",
@@ -2690,7 +3123,9 @@
         "home-guide:title-insurance:t17",
         "home-guide:title-insurance:t14",
         "home-guide:title-insurance:t18"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "e53145637391d48d2ff80a9f3fb9e7b4ddd31943c14c047f7a6e3d235923b80a"
     },
     {
       "route": "/veryvisa-com-site/home/guide/contractor-hiring/",
@@ -2710,7 +3145,9 @@
         "home-guide:contractor-hiring:acct",
         "home-guide:contractor-hiring:hold",
         "home-guide:contractor-hiring:file"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "43f1f9d07af9de0f943420a547d10c0f86ad0351bbd7cc3cf2ac92b48111c81d"
     },
     {
       "route": "/veryvisa-com-site/home/guide/heat-cooling/",
@@ -2737,7 +3174,9 @@
         "home-guide:heat-cooling:rb1",
         "home-guide:heat-cooling:rb2",
         "home-guide:heat-cooling:rb3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "c9cfb1d7a4d9bd0786722260289ff705ec3ec644f74ef661a4d87d54bf6c5f1f"
     },
     {
       "route": "/veryvisa-com-site/home/guide/heating-energy/",
@@ -2757,7 +3196,9 @@
         "home-guide:heating-energy:h8",
         "home-guide:heating-energy:h1",
         "home-guide:heating-energy:h2"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "3cb85db731fadb4a3b4e8406066179c1304e49c283a46fba60742f62f71fa745"
     },
     {
       "route": "/veryvisa-com-site/home/guide/reno-financing/",
@@ -2777,7 +3218,9 @@
         "home-guide:reno-financing:r6",
         "home-guide:reno-financing:r7",
         "home-guide:reno-financing:r8"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "2f1a4b1c7b39395e6dd8343b17f8e0a4937ff9648aea77c9a45c8d863c5a788e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/water-heater-furnace/",
@@ -2806,7 +3249,9 @@
         "home-guide:water-heater-furnace:gl1",
         "home-guide:water-heater-furnace:f8",
         "home-guide:water-heater-furnace:f13"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "48f6f1abe2387dea76448cb3d856d15168d07005039e24ca0af0ff7e3e7be763"
     },
     {
       "route": "/veryvisa-com-site/home/guide/garage-accessory-buildings/",
@@ -2828,7 +3273,9 @@
         "home-guide:garage-accessory-buildings:g10",
         "home-guide:garage-accessory-buildings:g8",
         "home-guide:garage-accessory-buildings:g9"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "54cd16ecd0c2898990f3a4bdf44e04f59b6dfde59e8fcf3c700e2a1e7d148392"
     },
     {
       "route": "/veryvisa-com-site/home/guide/trees-character-homes/",
@@ -2857,7 +3304,9 @@
         "home-guide:trees-character-homes:h4",
         "home-guide:trees-character-homes:h6",
         "home-guide:trees-character-homes:h5"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "0267fdf73d2f6ebfb8d5880e5c536ee78de8379e93271adad17b77c8a5a1139e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/cooling-rental-strata/",
@@ -2888,7 +3337,9 @@
         "home-guide:cooling-rental-strata:local",
         "home-guide:cooling-rental-strata:sapprove",
         "home-guide:cooling-rental-strata:s34"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "41765706d55594e492d9675b6db500941fe5ad76e33b43e02b532f3e8ef3ad3f"
     },
     {
       "route": "/veryvisa-com-site/home/guide/demolish-rebuild/",
@@ -2912,7 +3363,9 @@
         "home-guide:demolish-rebuild:storey13",
         "home-guide:demolish-rebuild:vbbl25",
         "home-guide:demolish-rebuild:zc4"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "2a7e524a33f98c7de2d588bb5c9092ce4d63f0b87731b95f1ea00c67000a6c76"
     },
     {
       "route": "/veryvisa-com-site/home/guide/laneway-house/",
@@ -2933,7 +3386,9 @@
         "home-guide:laneway-house:t4",
         "home-guide:laneway-house:t5",
         "home-guide:laneway-house:t6"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b271448d12be3b32e2db7901087c3b0f8593c590bd1376adea7d8924fa2daf11"
     },
     {
       "route": "/veryvisa-com-site/home/guide/multiplex-land/",
@@ -2962,7 +3417,9 @@
         "home-guide:multiplex-land:t5",
         "home-guide:multiplex-land:t6",
         "home-guide:multiplex-land:t7"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "0961260538b42c1e6f556916680c0deeaac8a7d390a8bb8ca3371a442ef12176"
     },
     {
       "route": "/veryvisa-com-site/home/guide/renovation-permits/",
@@ -2980,7 +3437,9 @@
         "home-guide:renovation-permits:gas2d",
         "home-guide:renovation-permits:asb90",
         "home-guide:renovation-permits:pen2x"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f166374f9f501a8abdd0b18a31431924fa25c2a4bf5f1620cd2b89ae048b15c5"
     },
     {
       "route": "/veryvisa-com-site/home/guide/building-code-history/",
@@ -3006,7 +3465,9 @@
         "home-guide:building-code-history:b8",
         "home-guide:building-code-history:b9",
         "home-guide:building-code-history:b14"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "35a422078ec42f64f8f949cf747ad0d35714ec01d06b2378c38ba5ffaf630d03"
     },
     {
       "route": "/veryvisa-com-site/home/guide/era-postwar-homes/",
@@ -3027,7 +3488,9 @@
         "home-guide:era-postwar-homes:dm2",
         "home-guide:era-postwar-homes:dm1",
         "home-guide:era-postwar-homes:dm3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "06cbc547b3dcde3b076c8a1b595d92353cd5fcd472bcf71a8dcb80be3fea3090"
     },
     {
       "route": "/veryvisa-com-site/home/guide/vancouver-special/",
@@ -3058,7 +3521,9 @@
         "home-guide:vancouver-special:rt3",
         "home-guide:vancouver-special:rt4",
         "home-guide:vancouver-special:pr1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b57acdae2af8b7394e72f7a7672ce1a5059b6e3219e3112aa30c3d563bdb04eb"
     },
     {
       "route": "/veryvisa-com-site/home/guide/era-1986-2000-homes/",
@@ -3084,7 +3549,9 @@
         "home-guide:era-1986-2000-homes:dp1",
         "home-guide:era-1986-2000-homes:dp2",
         "home-guide:era-1986-2000-homes:ib3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f00452b7cc584d3860985a174371b95cc43f735741bfbcb17f06dc9c8ae1688e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/wood-vs-concrete-condo/",
@@ -3105,7 +3572,9 @@
         "home-guide:wood-vs-concrete-condo:dp2",
         "home-guide:wood-vs-concrete-condo:si1",
         "home-guide:wood-vs-concrete-condo:si2"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b26f5509288cf7f3d2ab3efe22e7992e63bf34eb844feb99cf55b28c01f77891"
     },
     {
       "route": "/veryvisa-com-site/home/guide/step-code-energy/",
@@ -3133,7 +3602,9 @@
         "home-guide:step-code-energy:hr1",
         "home-guide:step-code-energy:vb8",
         "home-guide:step-code-energy:vb9"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "87c5daa68e278ace9df43721115ac04af652b529961b2e7b54a0ab81b8e87eea"
     },
     {
       "route": "/veryvisa-com-site/home/guide/roof-windows-envelope/",
@@ -3156,7 +3627,9 @@
         "home-guide:roof-windows-envelope:hr3",
         "home-guide:roof-windows-envelope:hr1",
         "home-guide:roof-windows-envelope:ws1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "828fe8875fe6b04a5881521e67b2a290f526d4330e832e610bd306a9affb1bfa"
     },
     {
       "route": "/veryvisa-com-site/home/guide/foundation-crawlspace/",
@@ -3173,7 +3646,9 @@
         "home-guide:foundation-crawlspace:pm1",
         "home-guide:foundation-crawlspace:rc1",
         "home-guide:foundation-crawlspace:ws1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "f25bcc280d44e99c5a0a9148e28681397adf76b9963cab972d96d21520564983"
     },
     {
       "route": "/veryvisa-com-site/home/guide/disability-ltc/",
@@ -3205,7 +3680,9 @@
         "home-guide:disability-ltc:d18",
         "home-guide:disability-ltc:d19",
         "home-guide:disability-ltc:d20"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "3b1ddac6097d03362db2ad0afd61431a0eb8724248de6e42021b950b3fe8bad0"
     },
     {
       "route": "/veryvisa-com-site/home/guide/home-insurance-claims/",
@@ -3234,7 +3711,9 @@
         "home-guide:home-insurance-claims:c16",
         "home-guide:home-insurance-claims:c17",
         "home-guide:home-insurance-claims:c11"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "61226ad86d81768e75dc866113b14dfabbcb3fc9b50f7f01d9bea6048fbe4ba8"
     },
     {
       "route": "/veryvisa-com-site/home/guide/water-damage-claims/",
@@ -3262,7 +3741,9 @@
         "home-guide:water-damage-claims:w14",
         "home-guide:water-damage-claims:w15",
         "home-guide:water-damage-claims:w16"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "bb66f75c5e9f86c2e70eb3e07d131187628be291f82fe85356bd26f7864fa8b7"
     },
     {
       "route": "/veryvisa-com-site/home/guide/renovation-insurance/",
@@ -3284,7 +3765,9 @@
         "home-guide:renovation-insurance:r8",
         "home-guide:renovation-insurance:r9",
         "home-guide:renovation-insurance:r10"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "98875c6c5112eccd6b1a0ea213a848ac8611a5ee27cb8c93b2adeff3623e9f03"
     },
     {
       "route": "/veryvisa-com-site/home/guide/heritage-house-insurance/",
@@ -3318,7 +3801,9 @@
         "home-guide:heritage-house-insurance:h18",
         "home-guide:heritage-house-insurance:h16",
         "home-guide:heritage-house-insurance:h15"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "b1c5751f6a2c47caf0cc9cb0e80fc6c12fd0eb84e3bc84c25e45f873f8c52cfe"
     },
     {
       "route": "/veryvisa-com-site/home/guide/home-insurance-premium/",
@@ -3361,7 +3846,9 @@
         "home-guide:home-insurance-premium:p28",
         "home-guide:home-insurance-premium:p29",
         "home-guide:home-insurance-premium:p30"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "5ff6231fab97023da934f3f0f52b04c57bfa298c4a8f48ff7467d7369e2e3a09"
     },
     {
       "route": "/veryvisa-com-site/home/guide/old-house-insurance/",
@@ -3377,7 +3864,9 @@
         "home-guide:old-house-insurance:t2",
         "home-guide:old-house-insurance:t3",
         "home-guide:old-house-insurance:t4"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "9b5a8a898514afdcd8b1cf2b593a0fa8584e53278a394982a3ef4f7e289acb55"
     },
     {
       "route": "/veryvisa-com-site/home/guide/strata-deductible/",
@@ -3414,7 +3903,9 @@
         "home-guide:strata-deductible:s20",
         "home-guide:strata-deductible:s21",
         "home-guide:strata-deductible:s23"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "9d75aed15efc0dd2243e3553c4de0ecf65569879febf844820594433bce94b69"
     },
     {
       "route": "/veryvisa-com-site/home/guide/aging-in-place/",
@@ -3438,7 +3929,9 @@
         "home-guide:aging-in-place:r_inc",
         "home-guide:aging-in-place:r_pre",
         "home-guide:aging-in-place:r_days"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "73be74db50235ad97cecb66acb5c7b5b7d8bdd1d4e041068ad8b0befca397c54"
     },
     {
       "route": "/veryvisa-com-site/home/guide/senior-downsizing/",
@@ -3464,7 +3957,9 @@
         "home-guide:senior-downsizing:d5",
         "home-guide:senior-downsizing:m1",
         "home-guide:senior-downsizing:m2"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "fcc465c7af46d10161633b5a048be464ae360f0ba45386917b736bfe1fd2d18d"
     },
     {
       "route": "/veryvisa-com-site/home/guide/utilities-move-in/",
@@ -3501,7 +3996,9 @@
         "home-guide:utilities-move-in:p1",
         "home-guide:utilities-move-in:p2",
         "home-guide:utilities-move-in:p3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "be613d1d4c7fe05a0413d025098caefec3aba14af5e0e0b19eb285a777eea65a"
     },
     {
       "route": "/veryvisa-com-site/home/guide/neighbour-disputes/",
@@ -3521,7 +4018,9 @@
         "home-guide:neighbour-disputes:pc35",
         "home-guide:neighbour-disputes:crtno",
         "home-guide:neighbour-disputes:crtother"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "1854209396076449fcda4d52350fd8155cb6bfcefcda91ec8396855203758b55"
     },
     {
       "route": "/veryvisa-com-site/home/guide/school-seismic/",
@@ -3555,7 +4054,9 @@
         "home-guide:school-seismic:e15",
         "home-guide:school-seismic:e17",
         "home-guide:school-seismic:e18"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "709d82fad052c8aad4ac79b5c2a2bad4ae6f4afc5c6688109d2b6d2d545aa9b2"
     },
     {
       "route": "/veryvisa-com-site/home/guide/surrey-south/",
@@ -3590,7 +4091,9 @@
         "home-guide:surrey-south:c2",
         "home-guide:surrey-south:d1",
         "home-guide:surrey-south:tr1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "89862d121c808063adfaa48434ba1649bf6641f554c1e3be058d2b6f77f32b16"
     },
     {
       "route": "/veryvisa-com-site/home/guide/first-shaughnessy/",
@@ -3617,7 +4120,9 @@
         "home-guide:first-shaughnessy:i2",
         "home-guide:first-shaughnessy:i1",
         "home-guide:first-shaughnessy:i3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "d9ab9756153ed8be025ce5ff62e33a7a0449f2cdfc129f222b63060ee441526b"
     },
     {
       "route": "/veryvisa-com-site/home/guide/burnaby-richmond/",
@@ -3660,7 +4165,9 @@
         "home-guide:burnaby-richmond:a2",
         "home-guide:burnaby-richmond:a4",
         "home-guide:burnaby-richmond:a5"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "471cf09ff00c7fa1d22acea3926f33c9997c99fe4d21beed761e03612a71b225"
     },
     {
       "route": "/veryvisa-com-site/home/guide/west-vancouver/",
@@ -3697,7 +4204,9 @@
         "home-guide:west-vancouver:b2",
         "home-guide:west-vancouver:x1",
         "home-guide:west-vancouver:x2"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "9e84442b25caf50e07050db0089ebb91bb021d758ae21ded98b7ee8d0d819e48"
     },
     {
       "route": "/veryvisa-com-site/home/guide/north-vancouver/",
@@ -3732,7 +4241,9 @@
         "home-guide:north-vancouver:e2",
         "home-guide:north-vancouver:e3",
         "home-guide:north-vancouver:b1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "e76c27d52fd1c2f0bf9f842d005e1bb4d1f2c9ecced26aa18cb9d401fd138b13"
     },
     {
       "route": "/veryvisa-com-site/home/guide/new-west-tricities/",
@@ -3778,7 +4289,9 @@
         "home-guide:new-west-tricities:d3",
         "home-guide:new-west-tricities:d4",
         "home-guide:new-west-tricities:d5"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "48bf0e268678a8c5d4d6e9e8b73c4e47d27a334813739b2654fea4c45d1c2f5c"
     },
     {
       "route": "/veryvisa-com-site/home/guide/richmond-neighbourhoods/",
@@ -3814,7 +4327,9 @@
         "home-guide:richmond-neighbourhoods:e2",
         "home-guide:richmond-neighbourhoods:e3",
         "home-guide:richmond-neighbourhoods:e5"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "331690236e4aeb0fa5baaec316486b0ec6ea7335758f1468aec239237cf351bb"
     },
     {
       "route": "/veryvisa-com-site/home/guide/burnaby-neighbourhoods/",
@@ -3848,7 +4363,9 @@
         "home-guide:burnaby-neighbourhoods:k1",
         "home-guide:burnaby-neighbourhoods:k2",
         "home-guide:burnaby-neighbourhoods:k3"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "c65f55d0342449efe986b8bfdadead028bcbc7db201406a197a814c265fcbce5"
     },
     {
       "route": "/veryvisa-com-site/home/guide/vancouver-westside-plans/",
@@ -3883,7 +4400,9 @@
         "home-guide:vancouver-westside-plans:odp4",
         "home-guide:vancouver-westside-plans:ph2",
         "home-guide:vancouver-westside-plans:ph1"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "cd58d52481b66355fd78a3ecdcd5e4498e723c94150587b0dbcd1d893dae725b"
     },
     {
       "route": "/veryvisa-com-site/home/guide/airport-noise/",
@@ -3920,7 +4439,9 @@
         "home-guide:airport-noise:c2",
         "home-guide:airport-noise:c3",
         "home-guide:airport-noise:c4"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "47e3f9b470c462d3297a88789f43e28225449be56a1bffe98ade3ae02564c704"
     },
     {
       "route": "/veryvisa-com-site/home/guide/crime-safety-data/",
@@ -3941,13 +4462,17 @@
         "home-guide:crime-safety-data:csitbl",
         "home-guide:crime-safety-data:codes",
         "home-guide:crime-safety-data:late"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "05c0a963bd7113c09e5e73121131f1f3e575c00f6b6bec0559dc3928629a2c11"
     },
     {
       "route": "/veryvisa-com-site/home/guide/",
       "file": "home/guide/index.html",
       "kind": "home",
-      "section": "guide-index"
+      "section": "guide-index",
+      "review": "pending",
+      "body_sha256": "b385216c9f386ca65432138e18a26c9db558dc4e2aa42125f88a455b9ed45821"
     },
     {
       "route": "/veryvisa-com-site/home/era/planner/",
@@ -3964,7 +4489,9 @@
         "home-guide:building-code-history:b2",
         "home-guide:new-build-warranty:w3",
         "home-guide:new-build-warranty:w4"
-      ]
+      ],
+      "review": "pending",
+      "body_sha256": "93d9c0e646a7be919ed76e2c34e2dd0afe7036ab9fc8bc0193a9e649feb22bd1"
     },
     {
       "route": "/veryvisa-com-site/immigration/express-entry-or-bc-pnp/",
@@ -4663,78 +5190,6 @@
       "target": "/veryvisa-com-site/retirement/cpp-start-age/"
     },
     {
-      "route": "/veryvisa-com-site/life-insurance/surrender-old-policy/",
-      "file": "life-insurance/surrender-old-policy/index.html",
-      "kind": "answer",
-      "id": "lc-09",
-      "vertical": "人寿与重疾",
-      "draft": true,
-      "facts_used": [
-        "insure-compare:canadalife-par-balanced-achiever#traits.policy-loan",
-        "insure-compare:canadalife-par-estate-achiever#traits.policy-loan",
-        "insure-compare:canadalife-par-wealth-achiever#traits.policy-loan"
-      ],
-      "selectors": [
-        "insure-compare:*-par-*#traits.policy-loan"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/lc-09/",
-      "file": "q/lc-09/index.html",
-      "kind": "short",
-      "id": "lc-09",
-      "target": "/veryvisa-com-site/life-insurance/surrender-old-policy/"
-    },
-    {
-      "route": "/veryvisa-com-site/cross-border/remit-money-from-china/",
-      "file": "cross-border/remit-money-from-china/index.html",
-      "kind": "answer",
-      "id": "cb-01",
-      "vertical": "跨境家庭与资产",
-      "draft": true,
-      "facts_used": [
-        "bank-compare:cibc-transfer-global-money-transfer#traits.china",
-        "bank-compare:eqbank-transfer-wise#traits.china",
-        "bank-compare:national-transfer-international#traits.china"
-      ],
-      "selectors": [
-        "bank-compare:*-transfer-*#traits.china",
-        "bank-compare:*-transfer-*#traits.fee",
-        "bank-compare:*-transfer-*#traits.speed"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/cb-01/",
-      "file": "q/cb-01/index.html",
-      "kind": "short",
-      "id": "cb-01",
-      "target": "/veryvisa-com-site/cross-border/remit-money-from-china/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/principal-residence-exemption/",
-      "file": "property/principal-residence-exemption/index.html",
-      "kind": "answer",
-      "id": "re-10",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [
-        "status-compass:departure_tax.capital_gain_inclusion"
-      ],
-      "selectors": [
-        "status-compass:departure_tax.capital_gain_inclusion"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-10/",
-      "file": "q/re-10/index.html",
-      "kind": "short",
-      "id": "re-10",
-      "target": "/veryvisa-com-site/property/principal-residence-exemption/"
-    },
-    {
       "route": "/veryvisa-com-site/tax/rrsp-or-tfsa-first/",
       "file": "tax/rrsp-or-tfsa-first/index.html",
       "kind": "answer",
@@ -4766,101 +5221,6 @@
       "kind": "short",
       "id": "tax-10",
       "target": "/veryvisa-com-site/tax/rrsp-or-tfsa-first/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/temporary-resident-buy-home-bc/",
-      "file": "property/temporary-resident-buy-home-bc/index.html",
-      "kind": "answer",
-      "id": "re-03",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "RuleTimeline"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-03/",
-      "file": "q/re-03/index.html",
-      "kind": "short",
-      "id": "re-03",
-      "target": "/veryvisa-com-site/property/temporary-resident-buy-home-bc/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/icbc-newcomer-driving-experience/",
-      "file": "insurance/icbc-newcomer-driving-experience/index.html",
-      "kind": "answer",
-      "id": "pi-07",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "pc-compare:icbc-auto-basic#traits.newcomer",
-        "pc-compare:icbc-auto-basic#traits.discounts",
-        "pc-compare:aviva-auto-personal#traits.newcomer"
-      ],
-      "selectors": [
-        "pc-compare:icbc-auto-basic#traits.newcomer",
-        "pc-compare:icbc-auto-basic#traits.discounts",
-        "pc-compare:*-auto-*#traits.newcomer"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-07/",
-      "file": "q/pi-07/index.html",
-      "kind": "short",
-      "id": "pi-07",
-      "target": "/veryvisa-com-site/insurance/icbc-newcomer-driving-experience/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/home-inspection-red-flags/",
-      "file": "property/home-inspection-red-flags/index.html",
-      "kind": "answer",
-      "id": "re-08",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [
-        "pc-compare:aviva-home-comprehensive#traits.water",
-        "pc-compare:bcaa-home-homeowners#traits.water",
-        "pc-compare:cooperators-home-prestige#traits.water"
-      ],
-      "selectors": [
-        "pc-compare:*-home-*#traits.water"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-08/",
-      "file": "q/re-08/index.html",
-      "kind": "short",
-      "id": "re-08",
-      "target": "/veryvisa-com-site/property/home-inspection-red-flags/"
-    },
-    {
-      "route": "/veryvisa-com-site/tax/sell-property-in-china-canada-tax/",
-      "file": "tax/sell-property-in-china-canada-tax/index.html",
-      "kind": "answer",
-      "id": "tax-05",
-      "vertical": "税务",
-      "draft": true,
-      "facts_used": [
-        "status-compass:tax.immigrant_deemed_acquisition",
-        "status-compass:departure_tax.capital_gain_inclusion",
-        "status-compass:treaty_cn.art13_5_other_gains"
-      ],
-      "selectors": [
-        "status-compass:tax.immigrant_deemed_acquisition",
-        "status-compass:departure_tax.capital_gain_inclusion",
-        "status-compass:treaty_cn.art13_5_other_gains",
-        "status-compass:treaty_cn.art21_credit_canada"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/tax-05/",
-      "file": "q/tax-05/index.html",
-      "kind": "short",
-      "id": "tax-05",
-      "target": "/veryvisa-com-site/tax/sell-property-in-china-canada-tax/"
     },
     {
       "route": "/veryvisa-com-site/insurance/super-visa-insurance-requirements/",
@@ -4960,24 +5320,6 @@
       "target": "/veryvisa-com-site/benefits/ccb-newcomer-eligibility/"
     },
     {
-      "route": "/veryvisa-com-site/cross-border/executor-duties-bc/",
-      "file": "cross-border/executor-duties-bc/index.html",
-      "kind": "answer",
-      "id": "cb-06",
-      "vertical": "跨境家庭与资产",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/cb-06/",
-      "file": "q/cb-06/index.html",
-      "kind": "short",
-      "id": "cb-06",
-      "target": "/veryvisa-com-site/cross-border/executor-duties-bc/"
-    },
-    {
       "route": "/veryvisa-com-site/immigration/pr-card-renewal-730-days/",
       "file": "immigration/pr-card-renewal-730-days/index.html",
       "kind": "answer",
@@ -5049,85 +5391,6 @@
       "target": "/veryvisa-com-site/tax/departure-tax-leaving-canada/"
     },
     {
-      "route": "/veryvisa-com-site/cross-border/assets-before-immigrating/",
-      "file": "cross-border/assets-before-immigrating/index.html",
-      "kind": "answer",
-      "id": "cb-02",
-      "vertical": "跨境家庭与资产",
-      "draft": true,
-      "facts_used": [
-        "status-compass:tax.immigrant_deemed_acquisition",
-        "status-compass:t1135.threshold",
-        "status-compass:t1135.first_year_exempt"
-      ],
-      "selectors": [
-        "status-compass:tax.immigrant_deemed_acquisition",
-        "status-compass:t1135.threshold",
-        "status-compass:t1135.first_year_exempt"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/cb-02/",
-      "file": "q/cb-02/index.html",
-      "kind": "short",
-      "id": "cb-02",
-      "target": "/veryvisa-com-site/cross-border/assets-before-immigrating/"
-    },
-    {
-      "route": "/veryvisa-com-site/tax/late-t1135-vdp/",
-      "file": "tax/late-t1135-vdp/index.html",
-      "kind": "answer",
-      "id": "tax-03",
-      "vertical": "税务",
-      "draft": true,
-      "facts_used": [
-        "status-compass:t1135.late_penalty",
-        "status-compass:t1135.gross_negligence_penalty",
-        "status-compass:vdp.relief_unprompted"
-      ],
-      "selectors": [
-        "status-compass:t1135.late_penalty",
-        "status-compass:t1135.gross_negligence_penalty",
-        "status-compass:vdp.relief_unprompted",
-        "status-compass:vdp.foreign_years",
-        "status-compass:tax.adjust_refund_limit"
-      ],
-      "component": "RuleTimeline"
-    },
-    {
-      "route": "/veryvisa-com-site/q/tax-03/",
-      "file": "q/tax-03/index.html",
-      "kind": "short",
-      "id": "tax-03",
-      "target": "/veryvisa-com-site/tax/late-t1135-vdp/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/fixed-or-variable-mortgage/",
-      "file": "property/fixed-or-variable-mortgage/index.html",
-      "kind": "answer",
-      "id": "re-05",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [
-        "bank-compare:bmo-mortgage-newcomer#traits.prepay",
-        "bank-compare:cibc-mortgage-newcomer#traits.prepay",
-        "bank-compare:coastcapital-mortgage-fixed#traits.prepay"
-      ],
-      "selectors": [
-        "bank-compare:*-mortgage-*#traits.prepay",
-        "bank-compare:*-mortgage-*#traits.portable"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-05/",
-      "file": "q/re-05/index.html",
-      "kind": "short",
-      "id": "re-05",
-      "target": "/veryvisa-com-site/property/fixed-or-variable-mortgage/"
-    },
-    {
       "route": "/veryvisa-com-site/retirement/oas-residence-years-parents/",
       "file": "retirement/oas-residence-years-parents/index.html",
       "kind": "answer",
@@ -5162,575 +5425,6 @@
       "kind": "short",
       "id": "rt-02",
       "target": "/veryvisa-com-site/retirement/oas-residence-years-parents/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/condo-strata-insurance-gap/",
-      "file": "insurance/condo-strata-insurance-gap/index.html",
-      "kind": "answer",
-      "id": "pi-10",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "pc-compare:bcaa-condo-owner#traits.loss-assessment",
-        "pc-compare:cooperators-condo-prestige#traits.loss-assessment",
-        "pc-compare:intact-condo-comprehensive#traits.loss-assessment"
-      ],
-      "selectors": [
-        "pc-compare:*-condo-*#traits.loss-assessment",
-        "pc-compare:*-condo-*#traits.improvements",
-        "pc-compare:*-condo-*#traits.water",
-        "pc-compare:*-tenant-*#traits.contents",
-        "pc-compare:*-tenant-*#traits.liability"
-      ],
-      "component": "ClauseGrid"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-10/",
-      "file": "q/pi-10/index.html",
-      "kind": "short",
-      "id": "pi-10",
-      "target": "/veryvisa-com-site/insurance/condo-strata-insurance-gap/"
-    },
-    {
-      "route": "/veryvisa-com-site/tax/side-income-gst-registration/",
-      "file": "tax/side-income-gst-registration/index.html",
-      "kind": "answer",
-      "id": "tax-17",
-      "vertical": "税务",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "RuleTimeline"
-    },
-    {
-      "route": "/veryvisa-com-site/q/tax-17/",
-      "file": "q/tax-17/index.html",
-      "kind": "short",
-      "id": "tax-17",
-      "target": "/veryvisa-com-site/tax/side-income-gst-registration/"
-    },
-    {
-      "route": "/veryvisa-com-site/life-insurance/life-insurance-underwriting/",
-      "file": "life-insurance/life-insurance-underwriting/index.html",
-      "kind": "answer",
-      "id": "lc-06",
-      "vertical": "人寿与重疾",
-      "draft": true,
-      "facts_used": [
-        "insure-compare:assumption-term-flexterm#traits.underwriting",
-        "insure-compare:beneva-term-term-life-insurance#traits.underwriting",
-        "insure-compare:bmo-term-term-life#traits.underwriting"
-      ],
-      "selectors": [
-        "insure-compare:*-term-*#traits.underwriting",
-        "insure-compare:*-ci-*#traits.underwriting"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/lc-06/",
-      "file": "q/lc-06/index.html",
-      "kind": "short",
-      "id": "lc-06",
-      "target": "/veryvisa-com-site/life-insurance/life-insurance-underwriting/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/parents-gift-down-payment/",
-      "file": "property/parents-gift-down-payment/index.html",
-      "kind": "answer",
-      "id": "re-09",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [
-        "bank-compare:eqbank-mortgage-residential#traits.down-payment",
-        "bank-compare:rbc-mortgage-newcomer#traits.down-payment",
-        "bank-compare:scotiabank-mortgage-startright#traits.down-payment"
-      ],
-      "selectors": [
-        "bank-compare:*-mortgage-*#traits.down-payment"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-09/",
-      "file": "q/re-09/index.html",
-      "kind": "short",
-      "id": "re-09",
-      "target": "/veryvisa-com-site/property/parents-gift-down-payment/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/visitor-insurance-claims/",
-      "file": "insurance/visitor-insurance-claims/index.html",
-      "kind": "answer",
-      "id": "pi-05",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "travel-insure:21c-vtc-basic#facts.directBilling",
-        "travel-insure:21c-vtc-enhanced#facts.directBilling",
-        "travel-insure:21c-vtc-standard#facts.directBilling"
-      ],
-      "selectors": [
-        "travel-insure:*#facts.directBilling",
-        "travel-insure:*#facts.assistance",
-        "travel-insure:*#facts.deductibleIsPerClaimOrPerPolicy",
-        "travel-insure:*#exclusions.ongoingTreatment"
-      ],
-      "component": "ClauseGrid"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-05/",
-      "file": "q/pi-05/index.html",
-      "kind": "short",
-      "id": "pi-05",
-      "target": "/veryvisa-com-site/insurance/visitor-insurance-claims/"
-    },
-    {
-      "route": "/veryvisa-com-site/benefits/ccb-reduced-repayment/",
-      "file": "benefits/ccb-reduced-repayment/index.html",
-      "kind": "answer",
-      "id": "bf-02",
-      "vertical": "福利与补助",
-      "draft": true,
-      "facts_used": [
-        "academy-accounts:ccb_thresholds",
-        "academy-accounts:ccb_rates",
-        "status-compass:tax.objection_deadline_individual"
-      ],
-      "selectors": [
-        "academy-accounts:ccb_thresholds",
-        "academy-accounts:ccb_rates",
-        "status-compass:tax.objection_deadline_individual",
-        "status-compass:cra.emigrant.no_ccb"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/bf-02/",
-      "file": "q/bf-02/index.html",
-      "kind": "short",
-      "id": "bf-02",
-      "target": "/veryvisa-com-site/benefits/ccb-reduced-repayment/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/icbc-basic-and-optional/",
-      "file": "insurance/icbc-basic-and-optional/index.html",
-      "kind": "answer",
-      "id": "pi-08",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "pc-compare:icbc-auto-basic#traits.claims",
-        "pc-compare:aviva-auto-personal#traits.accident-forgiveness",
-        "pc-compare:bcaa-auto-optional#traits.accident-forgiveness"
-      ],
-      "selectors": [
-        "pc-compare:icbc-auto-basic#traits.claims",
-        "pc-compare:*-auto-*#traits.accident-forgiveness",
-        "pc-compare:*-auto-*#traits.rental-car",
-        "pc-compare:*-auto-*#traits.new-car"
-      ],
-      "component": "ClauseGrid"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-08/",
-      "file": "q/pi-08/index.html",
-      "kind": "short",
-      "id": "pi-08",
-      "target": "/veryvisa-com-site/insurance/icbc-basic-and-optional/"
-    },
-    {
-      "route": "/veryvisa-com-site/tax/cra-review-letter-receipts/",
-      "file": "tax/cra-review-letter-receipts/index.html",
-      "kind": "answer",
-      "id": "tax-06",
-      "vertical": "税务",
-      "draft": true,
-      "facts_used": [
-        "status-compass:tax.objection_deadline_individual"
-      ],
-      "selectors": [
-        "status-compass:tax.objection_deadline_individual"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/tax-06/",
-      "file": "q/tax-06/index.html",
-      "kind": "short",
-      "id": "tax-06",
-      "target": "/veryvisa-com-site/tax/cra-review-letter-receipts/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/rent-or-buy-calculator/",
-      "file": "property/rent-or-buy-calculator/index.html",
-      "kind": "answer",
-      "id": "re-06",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-06/",
-      "file": "q/re-06/index.html",
-      "kind": "short",
-      "id": "re-06",
-      "target": "/veryvisa-com-site/property/rent-or-buy-calculator/"
-    },
-    {
-      "route": "/veryvisa-com-site/immigration/medical-police-eca/",
-      "file": "immigration/medical-police-eca/index.html",
-      "kind": "answer",
-      "id": "im-12",
-      "vertical": "签证与移民",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/im-12/",
-      "file": "q/im-12/index.html",
-      "kind": "short",
-      "id": "im-12",
-      "target": "/veryvisa-com-site/immigration/medical-police-eca/"
-    },
-    {
-      "route": "/veryvisa-com-site/immigration/citizenship-1095-days/",
-      "file": "immigration/citizenship-1095-days/index.html",
-      "kind": "answer",
-      "id": "im-04",
-      "vertical": "签证与移民",
-      "draft": true,
-      "facts_used": [
-        "status-compass:citizenship.required_days",
-        "status-compass:citizenship.window_years",
-        "status-compass:citizenship.pre_pr_factor"
-      ],
-      "selectors": [
-        "status-compass:citizenship.required_days",
-        "status-compass:citizenship.window_years",
-        "status-compass:citizenship.pre_pr_factor",
-        "status-compass:citizenship.pre_pr_max",
-        "status-compass:citizenship.language_level",
-        "status-compass:citizenship.test_questions",
-        "status-compass:citizenship.test_minutes",
-        "status-compass:citizenship.test_pass",
-        "status-compass:citizenship.test_attempts",
-        "status-compass:citizenship.tax_years",
-        "status-compass:fee.citizenship_adult"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/im-04/",
-      "file": "q/im-04/index.html",
-      "kind": "short",
-      "id": "im-04",
-      "target": "/veryvisa-com-site/immigration/citizenship-1095-days/"
-    },
-    {
-      "route": "/veryvisa-com-site/newcomer/exchange-driver-licence-bc/",
-      "file": "newcomer/exchange-driver-licence-bc/index.html",
-      "kind": "answer",
-      "id": "nc-03",
-      "vertical": "新移民落地",
-      "draft": true,
-      "facts_used": [
-        "pc-compare:icbc-auto-basic#traits.newcomer"
-      ],
-      "selectors": [
-        "pc-compare:icbc-auto-basic#traits.newcomer"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/nc-03/",
-      "file": "q/nc-03/index.html",
-      "kind": "short",
-      "id": "nc-03",
-      "target": "/veryvisa-com-site/newcomer/exchange-driver-licence-bc/"
-    },
-    {
-      "route": "/veryvisa-com-site/immigration/restoration-of-status/",
-      "file": "immigration/restoration-of-status/index.html",
-      "kind": "answer",
-      "id": "im-07",
-      "vertical": "签证与移民",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/im-07/",
-      "file": "q/im-07/index.html",
-      "kind": "short",
-      "id": "im-07",
-      "target": "/veryvisa-com-site/immigration/restoration-of-status/"
-    },
-    {
-      "route": "/veryvisa-com-site/education/resp-cesg-grants/",
-      "file": "education/resp-cesg-grants/index.html",
-      "kind": "answer",
-      "id": "ed-01",
-      "vertical": "子女教育",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/ed-01/",
-      "file": "q/ed-01/index.html",
-      "kind": "short",
-      "id": "ed-01",
-      "target": "/veryvisa-com-site/education/resp-cesg-grants/"
-    },
-    {
-      "route": "/veryvisa-com-site/banking/tfsa-room-newcomer/",
-      "file": "banking/tfsa-room-newcomer/index.html",
-      "kind": "answer",
-      "id": "bk-02",
-      "vertical": "银行账户与投资",
-      "draft": true,
-      "facts_used": [
-        "academy-accounts:tfsa_history",
-        "academy-accounts:tfsa_limit",
-        "academy-accounts:tfsa_age"
-      ],
-      "selectors": [
-        "academy-accounts:tfsa_history",
-        "academy-accounts:tfsa_limit",
-        "academy-accounts:tfsa_age",
-        "academy-accounts:tfsa_replacement",
-        "academy-accounts:tfsa_excess",
-        "status-compass:tfsa.nonresident_no_contribution"
-      ],
-      "component": "RuleTimeline"
-    },
-    {
-      "route": "/veryvisa-com-site/q/bk-02/",
-      "file": "q/bk-02/index.html",
-      "kind": "short",
-      "id": "bk-02",
-      "target": "/veryvisa-com-site/banking/tfsa-room-newcomer/"
-    },
-    {
-      "route": "/veryvisa-com-site/life-insurance/two-year-contestability/",
-      "file": "life-insurance/two-year-contestability/index.html",
-      "kind": "answer",
-      "id": "lc-07",
-      "vertical": "人寿与重疾",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/lc-07/",
-      "file": "q/lc-07/index.html",
-      "kind": "short",
-      "id": "lc-07",
-      "target": "/veryvisa-com-site/life-insurance/two-year-contestability/"
-    },
-    {
-      "route": "/veryvisa-com-site/property/add-child-to-title/",
-      "file": "property/add-child-to-title/index.html",
-      "kind": "answer",
-      "id": "re-11",
-      "vertical": "房产",
-      "draft": true,
-      "facts_used": [],
-      "selectors": [],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/re-11/",
-      "file": "q/re-11/index.html",
-      "kind": "short",
-      "id": "re-11",
-      "target": "/veryvisa-com-site/property/add-child-to-title/"
-    },
-    {
-      "route": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/",
-      "file": "retirement/retirement-withdrawal-oas-clawback/index.html",
-      "kind": "answer",
-      "id": "rt-05",
-      "vertical": "退休与养老",
-      "draft": true,
-      "facts_used": [
-        "academy-accounts:oas_threshold",
-        "academy-accounts:oas_rate",
-        "academy-accounts:rrif_factors"
-      ],
-      "selectors": [
-        "academy-accounts:oas_threshold",
-        "academy-accounts:oas_rate",
-        "academy-accounts:rrif_factors",
-        "academy-accounts:rrif_minimum",
-        "academy-accounts:rrsp_age",
-        "status-compass:oas.recovery_threshold_2025"
-      ],
-      "component": "ScenarioCalc"
-    },
-    {
-      "route": "/veryvisa-com-site/q/rt-05/",
-      "file": "q/rt-05/index.html",
-      "kind": "short",
-      "id": "rt-05",
-      "target": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/"
-    },
-    {
-      "route": "/veryvisa-com-site/tax/cra-objection-deadline/",
-      "file": "tax/cra-objection-deadline/index.html",
-      "kind": "answer",
-      "id": "tax-07",
-      "vertical": "税务",
-      "draft": true,
-      "facts_used": [
-        "status-compass:tax.objection_deadline_individual"
-      ],
-      "selectors": [
-        "status-compass:tax.objection_deadline_individual"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/tax-07/",
-      "file": "q/tax-07/index.html",
-      "kind": "short",
-      "id": "tax-07",
-      "target": "/veryvisa-com-site/tax/cra-objection-deadline/"
-    },
-    {
-      "route": "/veryvisa-com-site/newcomer/first-week-after-landing/",
-      "file": "newcomer/first-week-after-landing/index.html",
-      "kind": "answer",
-      "id": "nc-01",
-      "vertical": "新移民落地",
-      "draft": true,
-      "facts_used": [
-        "bank-compare:bmo-newcomer-newstart#traits.eligibility",
-        "bank-compare:cibc-newcomer-smart-account#traits.eligibility",
-        "bank-compare:coastcapital-newcomer-banking#traits.eligibility"
-      ],
-      "selectors": [
-        "bank-compare:*-newcomer-*#traits.eligibility",
-        "bank-compare:*-newcomer-*#traits.waiver"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/nc-01/",
-      "file": "q/nc-01/index.html",
-      "kind": "short",
-      "id": "nc-01",
-      "target": "/veryvisa-com-site/newcomer/first-week-after-landing/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/msp-waiting-period-coverage/",
-      "file": "insurance/msp-waiting-period-coverage/index.html",
-      "kind": "answer",
-      "id": "pi-06",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "travel-insure:21c-vtc-basic#facts.waitingPeriodAfterArrival",
-        "travel-insure:21c-vtc-enhanced#facts.waitingPeriodAfterArrival",
-        "travel-insure:21c-vtc-standard#facts.waitingPeriodAfterArrival"
-      ],
-      "selectors": [
-        "travel-insure:*#facts.waitingPeriodAfterArrival",
-        "travel-insure:*#facts.refund",
-        "travel-insure:*#facts.preexStableCoverage",
-        "status-compass:msp.presence_months"
-      ],
-      "component": "ClauseGrid"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-06/",
-      "file": "q/pi-06/index.html",
-      "kind": "short",
-      "id": "pi-06",
-      "target": "/veryvisa-com-site/insurance/msp-waiting-period-coverage/"
-    },
-    {
-      "route": "/veryvisa-com-site/immigration/prtd-expired-pr-card-abroad/",
-      "file": "immigration/prtd-expired-pr-card-abroad/index.html",
-      "kind": "answer",
-      "id": "im-05",
-      "vertical": "签证与移民",
-      "draft": true,
-      "facts_used": [
-        "status-compass:pr.card_expiry_not_status_loss",
-        "status-compass:fee.prtd",
-        "status-compass:prtd.required_days"
-      ],
-      "selectors": [
-        "status-compass:pr.card_expiry_not_status_loss",
-        "status-compass:fee.prtd",
-        "status-compass:prtd.required_days",
-        "status-compass:prtd.hc_review",
-        "status-compass:prtd.china_exit_entry",
-        "status-compass:iad.residency_appeal_days"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/im-05/",
-      "file": "q/im-05/index.html",
-      "kind": "short",
-      "id": "im-05",
-      "target": "/veryvisa-com-site/immigration/prtd-expired-pr-card-abroad/"
-    },
-    {
-      "route": "/veryvisa-com-site/scams/investment-scam-check/",
-      "file": "scams/investment-scam-check/index.html",
-      "kind": "answer",
-      "id": "sc-04",
-      "vertical": "防骗与辟谣",
-      "draft": true,
-      "facts_used": [
-        "life-guide:R-07-01"
-      ],
-      "selectors": [
-        "life-guide:R-07-01"
-      ],
-      "component": "none"
-    },
-    {
-      "route": "/veryvisa-com-site/q/sc-04/",
-      "file": "q/sc-04/index.html",
-      "kind": "short",
-      "id": "sc-04",
-      "target": "/veryvisa-com-site/scams/investment-scam-check/"
-    },
-    {
-      "route": "/veryvisa-com-site/insurance/visitor-insurance-60-day-quotes/",
-      "file": "insurance/visitor-insurance-60-day-quotes/index.html",
-      "kind": "answer",
-      "id": "pi-03",
-      "vertical": "普通保险",
-      "draft": true,
-      "facts_used": [
-        "travel-quotes:allianz-super-visa-essentials@P1@100000@0@60@1",
-        "travel-quotes:allianz-vtc@P1@25000@0@60@2",
-        "travel-quotes:allianz-vtc@P1@50000@0@60@3"
-      ],
-      "selectors": [
-        "travel-quotes:*@P1@*@*@60@*"
-      ],
-      "component": "QuoteSample"
-    },
-    {
-      "route": "/veryvisa-com-site/q/pi-03/",
-      "file": "q/pi-03/index.html",
-      "kind": "short",
-      "id": "pi-03",
-      "target": "/veryvisa-com-site/insurance/visitor-insurance-60-day-quotes/"
     },
     {
       "route": "/veryvisa-com-site/cards/ties-ladder/",
@@ -7261,9 +6955,9 @@
     }
   ],
   "counts": {
-    "html": 502,
-    "answers": 60,
-    "shorts": 60,
+    "html": 431,
+    "answers": 25,
+    "shorts": 25,
     "facts": 5643
   },
   "config": {

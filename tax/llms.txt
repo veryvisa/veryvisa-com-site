@@ -4,9 +4,4 @@
 - 国内有房有存款，要不要报 T1135: 境外指定财产在一年中任一时刻成本合计超过 10 万加元须填 T1135，按成本不按市值；自住的国内房产不算指定财产 https://veryvisa.com/tax/t1135-foreign-property/
 - 落地第一年报税，全球收入从哪天算: 新移民通常从在加拿大建立居所联系的那天起成为税务居民，第一年只报成为居民之后的全球收入，落地前在国内的收入不报 https://veryvisa.com/tax/first-year-tax-return-newcomer/
 - RRSP 与 TFSA 先存哪个: RRSP 存入时抵税、取出时计税，适合现在税率高于退休时的人；TFSA 存入不抵税、增长与取出都免税，取出的额度次年恢复 https://veryvisa.com/tax/rrsp-or-tfsa-first/
-- 卖掉国内的房子，在加拿大要交税吗: 加拿大税务居民出售海外房产，增值的一半计入应税收入；成本按落地日公允市值重新起算，落地前的增值不在加拿大计税 https://veryvisa.com/tax/sell-property-in-china-canada-tax/
 - 回国长住前，离境报税怎样收尾: 成为非居民的日期通常是本人、配偶与受抚养人离开及成为新居住国居民中最晚的一天；当年报离境前的全球收入 https://veryvisa.com/tax/departure-tax-leaving-canada/
-- 漏报 T1135，补报与自愿披露怎样走: 漏报 T1135 的罚款按逾期天数计算，故意或重大过失更重；CRA 未联系前主动补报，可申请自愿披露计划（VDP）减免 https://veryvisa.com/tax/late-t1135-vdp/
-- 副业与自雇收入怎样报税、何时注册 GST: 自雇与副业收入用 T2125 申报，可扣除与经营相关的费用；自雇须同时缴纳 CPP 雇主与雇员两份 https://veryvisa.com/tax/side-income-gst-registration/
-- 收到 CRA 审查信要交收据，怎样回复: 审查信（review letter）要求在限期内提供收据或证明，常见于托儿费、学费、医疗费与搬家费 https://veryvisa.com/tax/cra-review-letter-receipts/
-- 不服 CRA 重新评税，怎样提异议: 个人提异议的期限是申报截止日后一年或评税通知日起 90 天，取较晚者；可经 My Account 或 T400A 提交 https://veryvisa.com/tax/cra-objection-deadline/

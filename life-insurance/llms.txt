@@ -4,6 +4,3 @@
 - 重疾险的病种定义各家差在哪里: 重疾险确诊合同列明的疾病并满足定义后一次性赔付；同叫「癌症」，各家对早期癌、原位癌的定义与赔付比例不同 https://veryvisa.com/life-insurance/critical-illness-definitions/
 - 分红险的分红从哪里来: 分红来自保险公司分红账户的投资、死亡率与费用经验，由公司每年公布红利利率（dividend scale），不保证 https://veryvisa.com/life-insurance/participating-dividend-scale/
 - 寿险保额怎样估算: 常用的估算法是家庭现金缺口：未还房贷与债务＋子女到独立前的生活与教育费用＋身后费用，减去已有资产、团体寿险与政府遗属福利 https://veryvisa.com/life-insurance/how-much-life-insurance/
-- 旧保单要不要退：损失与税务: 退保拿回的是现金价值减去退保费用；早年退保损失最大，定期险通常没有现金价值 https://veryvisa.com/life-insurance/surrender-old-policy/
-- 投保要体检吗，核保看什么: 保险公司按年龄与保额决定是否要求体检、验血或病历；核保看健康史、家族病史、BMI、吸烟、职业与出行 https://veryvisa.com/life-insurance/life-insurance-underwriting/
-- 投保时漏报的病，两年后还会被拒赔吗: 保单生效满两年后，保险公司一般不能再以漏报为由撤销合同，但有欺诈的除外，满两年也可以拒赔 https://veryvisa.com/life-insurance/two-year-contestability/

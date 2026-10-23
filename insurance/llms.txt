@@ -1,10 +1,4 @@
 # 普通保险
 
 - 访客医疗险的既往症稳定期怎样核对: 稳定期指投保生效前一段时间内，该病没有新症状、没有加重、没有调药或新检查；各家要求的天数按年龄分段，从 90 天到 365 天不等 https://veryvisa.com/insurance/visitor-insurance-stable-condition/
-- 新移民在 BC 买车险，国内驾龄怎样算: BC 基本车险只由 ICBC 提供；新移民的海外驾龄经驾驶记录证明后可计入保费折扣（引 ICBC 原文） https://veryvisa.com/insurance/icbc-newcomer-driving-experience/
 - 超级签证保险须满足哪些要求: IRCC 要求：加拿大保险公司（或符合 OSFI 条件的境外公司）、自入境起至少一年、紧急医疗至少十万加元、覆盖医疗、住院与遣返 https://veryvisa.com/insurance/super-visa-insurance-requirements/
-- 公寓有大楼保险，自己还要买吗: 大楼保险（strata 保单）保建筑结构与公共部分，不保单位内的个人财产、装修改善与个人责任 https://veryvisa.com/insurance/condo-strata-insurance-gap/
-- 父母看急诊住院，访客险怎样理赔: 出险后先打保单上的 24 小时援助电话，能直付的由保险公司与医院结算，不能直付的先垫付再报销 https://veryvisa.com/insurance/visitor-insurance-claims/
-- ICBC 基本险与可选险怎样搭配: 基本险包含 20 万第三者责任、无过失医疗与康复（Enhanced Care）等；碰撞、综合与更高责任额度属可选险 https://veryvisa.com/insurance/icbc-basic-and-optional/
-- MSP 等待期内，要不要买私人医疗险: BC MSP 对新居民设等待期，等待期内看病费用自付；这段时间常用访客医疗险或新移民医疗险衔接 https://veryvisa.com/insurance/msp-waiting-period-coverage/
-- 60 多岁父母 60 天访客险的实测报价: 同一画像、同一天在各家报价入口取得的报价逐行列出：承保公司、计划、保额、自付额、保费与报价日期 https://veryvisa.com/insurance/visitor-insurance-60-day-quotes/
