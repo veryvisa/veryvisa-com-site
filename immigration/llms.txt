@@ -1,0 +1,12 @@
+# 签证与移民
+
+- 快速通道与 BC 省提名，各适合什么条件: 联邦快速通道（EE）按 CRS 分数与类别抽签邀请；BC 省提名（BC PNP）按省内雇主、职业与 SIRS 打分邀请，两条路可以同时在池 https://veryvisa.com/immigration/express-entry-or-bc-pnp/
+- 父母超级签证：材料、保险与收入门槛: 超级签证允许父母祖父母每次停留最长五年；保险须自入境日起至少一年、紧急医疗保额至少十万加元 https://veryvisa.com/immigration/super-visa-requirements/
+- 毕业工签 PGWP 的申请条件: 毕业工签须从合资格 DLI 的合资格项目毕业，并在拿到成绩证明后 180 天内递交；部分项目还要求语言成绩与专业对口 https://veryvisa.com/immigration/pgwp-eligibility/
+- 配偶团聚：境内与境外申请的区别: 境内与境外配偶团聚递交同一套 PR 门户材料，区别在申请人是否与担保人同住加拿大、能否申请开放工签、能否上诉 https://veryvisa.com/immigration/spousal-sponsorship-inland-outland/
+- 工签学签续签审理期间能否工作: 在原许可到期前递交续签，可在等待期间按原条件留在加拿大（maintained status），通常可继续工作或上学 https://veryvisa.com/immigration/maintained-status-work/
+- 枫叶卡续卡：五年住满两年怎样算: 永久居民须在适用的五年内累计至少 730 天在加拿大；离开与回来当天都算在加拿大，部分境外天数（随公民配偶等）也可计入 https://veryvisa.com/immigration/pr-card-renewal-730-days/
+- 移民体检、无犯罪证明与学历认证: 移民体检须找 IRCC 指定医生；无犯罪证明按居住过的国家分别开具；学历认证（ECA）须找 IRCC 指定机构 https://veryvisa.com/immigration/medical-police-eca/
+- 入籍要住满多少天，考什么: 成人入籍须在签署申请日前五年内实际在加拿大至少 1,095 天，其中成为 PR 前的合资格天数按半天计、最多 365 天 https://veryvisa.com/immigration/citizenship-1095-days/
+- 身份过期后，90 天内能否恢复: 临时居民身份过期后 90 天内可申请恢复身份（restoration），须说明原因并满足原身份条件，期间不能工作或上学 https://veryvisa.com/immigration/restoration-of-status/
+- 人在国外枫叶卡过期，怎样回加拿大: 卡过期不等于失去 PR 身份；乘飞机等商业交通回加拿大须先申请 PRTD，申请费 50 加元 https://veryvisa.com/immigration/prtd-expired-pr-card-abroad/

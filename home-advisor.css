@@ -1,0 +1,233 @@
+.home-brief {
+  max-width: 860px;
+}
+
+.brief-privacy {
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--accent);
+  background: #eef6f3;
+}
+
+.brief-form {
+  display: grid;
+  gap: 1rem;
+}
+
+.brief-form section,
+.brief-results {
+  margin: 0;
+  padding: 1.2rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+}
+
+.brief-form h2,
+.brief-results h2 {
+  margin-top: 0;
+}
+
+.brief-form label,
+.brief-form input,
+.brief-form select {
+  display: block;
+  width: 100%;
+}
+
+.brief-form input,
+.brief-form select {
+  margin-top: .35rem;
+  padding: .7rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  font: inherit;
+}
+
+.brief-form select[multiple] {
+  min-height: 14rem;
+}
+
+.brief-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.brief-results {
+  margin-top: 1rem;
+}
+
+.brief-results li {
+  margin: .8rem 0;
+  overflow-wrap: anywhere;
+}
+
+.brief-results button {
+  margin-left: .7rem;
+}
+
+.advisor-print {
+  width: min(920px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 2rem 0 6rem;
+}
+
+.advisor-print-heading {
+  border-bottom: 3px solid var(--accent);
+  margin-bottom: 1.2rem;
+}
+
+.advisor-print-heading h1 {
+  margin: .2rem 0;
+  font-family: Georgia, "Songti SC", serif;
+  font-size: 2.4rem;
+}
+
+.advisor-print-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.4rem;
+}
+
+.advisor-print section {
+  margin: 0;
+  break-inside: avoid;
+}
+
+.advisor-print .fact {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.advisor-print .fact-source,
+.advisor-print .fact details {
+  display: none;
+}
+
+.advisor-print h2 {
+  margin: 0 0 .45rem;
+  font-size: 1.25rem;
+}
+
+.advisor-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .88rem;
+}
+
+.advisor-table th,
+.advisor-table td {
+  padding: .35rem .45rem;
+  border: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+.advisor-school-list {
+  padding-left: 1.2rem;
+}
+
+.advisor-print-footer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: .75rem 1rem;
+  border-top: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  font-size: .82rem;
+}
+
+.advisor-era-page { break-before: page; page-break-before: always; }
+.advisor-era-checklists { columns: 2; column-gap: 1.25rem; }
+.advisor-era-checklists > article { break-inside: avoid; }
+.advisor-era-checklists h3 { margin-bottom: .2rem; }
+.advisor-era-checklists section h3 { font-size: .9rem; margin: .35rem 0 .15rem; }
+.advisor-era-checklists ul { margin-top: 0; padding-left: 1rem; }
+
+@media (max-width: 700px) {
+  .brief-pair,
+  .advisor-print-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .advisor-print-footer {
+    align-items: center;
+    flex-direction: column;
+    gap: .2rem;
+  }
+}
+
+@page {
+  size: A4;
+  margin: 11mm 12mm 18mm;
+}
+
+@media print {
+  :root {
+    color: #111;
+    background: #fff;
+  }
+
+  .advisor-print {
+    width: auto;
+    margin: 0;
+    padding: 0 0 13mm;
+    font-size: 9.5pt;
+    line-height: 1.35;
+  }
+
+  .advisor-print a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .advisor-print-heading {
+    margin-bottom: 4mm;
+  }
+
+  .advisor-print-heading h1 {
+    font-size: 20pt;
+  }
+
+  .advisor-print-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 4mm 6mm;
+  }
+
+  .advisor-print h2 {
+    font-size: 12pt;
+  }
+
+  .advisor-table {
+    font-size: 8pt;
+    line-height: 1.25;
+  }
+
+  .advisor-table th,
+  .advisor-table td {
+    padding: 1.2mm 1.5mm;
+  }
+
+  .advisor-print p,
+  .advisor-print ul {
+    margin: 1.5mm 0;
+  }
+
+  .advisor-print-footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    justify-content: space-between;
+    padding: 2mm 0;
+    border-top: .25mm solid #666;
+    font-size: 8pt;
+  }
+}
