@@ -1,8 +1,8 @@
 # 签证与移民
 
-- 快速通道与 BC 省提名，各适合什么条件: 联邦快速通道（EE）按 CRS 分数与类别抽签邀请；BC 省提名（BC PNP）按省内雇主、职业与 SIRS 打分邀请，两条路可以同时在池 https://veryvisa.com/immigration/express-entry-or-bc-pnp/
-- 父母超级签证：材料、保险与收入门槛: 超级签证允许父母祖父母每次停留最长五年；保险须自入境日起至少一年、紧急医疗保额至少十万加元 https://veryvisa.com/immigration/super-visa-requirements/
-- 毕业工签 PGWP 的申请条件: 毕业工签须从合资格 DLI 的合资格项目毕业，并在拿到成绩证明后 180 天内递交；部分项目还要求语言成绩与专业对口 https://veryvisa.com/immigration/pgwp-eligibility/
-- 配偶团聚：境内与境外申请的区别: 境内与境外配偶团聚递交同一套 PR 门户材料，区别在申请人是否与担保人同住加拿大、能否申请开放工签、能否上诉 https://veryvisa.com/immigration/spousal-sponsorship-inland-outland/
-- 工签学签续签审理期间能否工作: 在原许可到期前递交续签，可在等待期间按原条件留在加拿大（maintained status），通常可继续工作或上学 https://veryvisa.com/immigration/maintained-status-work/
-- 枫叶卡续卡：五年住满两年怎样算: 永久居民须在适用的五年内累计至少 730 天在加拿大；离开与回来当天都算在加拿大，部分境外天数（随公民配偶等）也可计入 https://veryvisa.com/immigration/pr-card-renewal-730-days/
+- 快速通道与 BC 省提名，各适合什么条件: 联邦快速通道（EE）按 CRS 分数与类别抽签邀请；BC 省提名（BC PNP）按省内雇主、职业与 SIRS 打分邀请，两条路可以同时在池 https://veryvisa.github.io/veryvisa-com-site/immigration/express-entry-or-bc-pnp/
+- 父母超级签证：材料、保险与收入门槛: 超级签证允许父母祖父母每次停留最长五年；保险须自入境日起至少一年、紧急医疗保额至少十万加元 https://veryvisa.github.io/veryvisa-com-site/immigration/super-visa-requirements/
+- 毕业工签 PGWP 的申请条件: 毕业工签须从合资格 DLI 的合资格项目毕业，并在拿到成绩证明后 180 天内递交；部分项目还要求语言成绩与专业对口 https://veryvisa.github.io/veryvisa-com-site/immigration/pgwp-eligibility/
+- 配偶团聚：境内与境外申请的区别: 境内与境外配偶团聚递交同一套 PR 门户材料，区别在申请人是否与担保人同住加拿大、能否申请开放工签、能否上诉 https://veryvisa.github.io/veryvisa-com-site/immigration/spousal-sponsorship-inland-outland/
+- 工签学签续签审理期间能否工作: 在原许可到期前递交续签，可在等待期间按原条件留在加拿大（maintained status），通常可继续工作或上学 https://veryvisa.github.io/veryvisa-com-site/immigration/maintained-status-work/
+- 枫叶卡续卡：五年住满两年怎样算: 永久居民须在适用的五年内累计至少 730 天在加拿大；离开与回来当天都算在加拿大，部分境外天数（随公民配偶等）也可计入 https://veryvisa.github.io/veryvisa-com-site/immigration/pr-card-renewal-730-days/

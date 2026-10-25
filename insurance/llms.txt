@@ -1,4 +1,4 @@
 # 普通保险
 
-- 访客医疗险的既往症稳定期怎样核对: 稳定期指投保生效前一段时间内，该病没有新症状、没有加重、没有调药或新检查；各家要求的天数按年龄分段，从 90 天到 365 天不等 https://veryvisa.com/insurance/visitor-insurance-stable-condition/
-- 超级签证保险须满足哪些要求: IRCC 要求：加拿大保险公司（或符合 OSFI 条件的境外公司）、自入境起至少一年、紧急医疗至少十万加元、覆盖医疗、住院与遣返 https://veryvisa.com/insurance/super-visa-insurance-requirements/
+- 访客医疗险的既往症稳定期怎样核对: 稳定期指投保生效前一段时间内，该病没有新症状、没有加重、没有调药或新检查；各家要求的天数按年龄分段，从 90 天到 365 天不等 https://veryvisa.github.io/veryvisa-com-site/insurance/visitor-insurance-stable-condition/
+- 超级签证保险须满足哪些要求: IRCC 要求：加拿大保险公司（或符合 OSFI 条件的境外公司）、自入境起至少一年、紧急医疗至少十万加元、覆盖医疗、住院与遣返 https://veryvisa.github.io/veryvisa-com-site/insurance/super-visa-insurance-requirements/

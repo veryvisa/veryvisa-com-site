@@ -1,4 +1,4 @@
-# veryvisa.com 临时地址副本
+# 微出国 veryvisa 手册站
 
-正本是本地仓 veryvisa-com 的 dist/，这里是加了 `/veryvisa-com-site/` 前缀、整站 noindex 的 GitHub Pages 副本。canonical 仍指 https://veryvisa.com。
-根域名接通后由 `deploy/publish_interim.sh --switch` 改成跳转桩。不要手改。
+https://veryvisa.github.io/veryvisa-com-site/ 的 GitHub Pages 发布仓。正本是本地仓 veryvisa-com 的 dist/，这里只给站内路径加了 `/veryvisa-com-site/` 前缀。
+canonical、sitemap、robots 都指 https://veryvisa.github.io/veryvisa-com-site（站址配置项 src/config/site.json 的 site）。不要手改。

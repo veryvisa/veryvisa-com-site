@@ -1,6 +1,6 @@
 # 人寿与重疾
 
-- 定期寿险与终身寿险，怎样选: 定期寿险保一段时间（10、20 年或到 100 岁），保费低、到期续保会涨；终身寿险保一辈子，保费高、多数有现金价值 https://veryvisa.com/life-insurance/term-or-permanent-life/
-- 重疾险的病种定义各家差在哪里: 重疾险确诊合同列明的疾病并满足定义后一次性赔付；同叫「癌症」，各家对早期癌、原位癌的定义与赔付比例不同 https://veryvisa.com/life-insurance/critical-illness-definitions/
-- 分红险的分红从哪里来: 分红来自保险公司分红账户的投资、死亡率与费用经验，由公司每年公布红利利率（dividend scale），不保证 https://veryvisa.com/life-insurance/participating-dividend-scale/
-- 寿险保额怎样估算: 常用的估算法是家庭现金缺口：未还房贷与债务＋子女到独立前的生活与教育费用＋身后费用，减去已有资产、团体寿险与政府遗属福利 https://veryvisa.com/life-insurance/how-much-life-insurance/
+- 定期寿险与终身寿险，怎样选: 定期寿险保一段时间（10、20 年或到 100 岁），保费低、到期续保会涨；终身寿险保一辈子，保费高、多数有现金价值 https://veryvisa.github.io/veryvisa-com-site/life-insurance/term-or-permanent-life/
+- 重疾险的病种定义各家差在哪里: 重疾险确诊合同列明的疾病并满足定义后一次性赔付；同叫「癌症」，各家对早期癌、原位癌的定义与赔付比例不同 https://veryvisa.github.io/veryvisa-com-site/life-insurance/critical-illness-definitions/
+- 分红险的分红从哪里来: 分红来自保险公司分红账户的投资、死亡率与费用经验，由公司每年公布红利利率（dividend scale），不保证 https://veryvisa.github.io/veryvisa-com-site/life-insurance/participating-dividend-scale/
+- 寿险保额怎样估算: 常用的估算法是家庭现金缺口：未还房贷与债务＋子女到独立前的生活与教育费用＋身后费用，减去已有资产、团体寿险与政府遗属福利 https://veryvisa.github.io/veryvisa-com-site/life-insurance/how-much-life-insurance/
