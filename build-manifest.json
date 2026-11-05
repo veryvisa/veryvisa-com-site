@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T02:00:02.744Z",
+  "generated": "2026-11-05T02:44:19.242Z",
   "allowedTop": [
     "tax",
     "property",
@@ -372,8 +372,8 @@
       "kind": "home",
       "section": "index",
       "facts_used": [],
-      "review": "reviewed",
-      "body_sha256": "73698702eae4e271b92fd7b7a1e1bf1599768e3b3443ecceb510269b341d3790",
+      "review": "stale",
+      "body_sha256": "b8c0303c8f13ca3b957ba9cf5557ab4d1eecebc9c8209817c495395a439f9512",
       "review_receipt": {
         "reviewer": "微出国编辑部",
         "date": "2026-10-22"
@@ -3058,6 +3058,87 @@
       "body_sha256": "0132ea7dd0dc40192d919d1ae98f1fae5f896d9e79c0c839be71d113cf91ff23"
     },
     {
+      "route": "/veryvisa-com-site/home/guide/leasehold-homes/",
+      "file": "home/guide/leasehold-homes/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "leasehold-homes",
+      "audio_keys": [
+        "home-first-nations-leasehold",
+        "home-w24b-ubc-uel-leasehold"
+      ],
+      "topic_facts": [
+        "home-guide:leasehold-homes:u1",
+        "home-guide:leasehold-homes:u2",
+        "home-guide:leasehold-homes:u3",
+        "home-guide:leasehold-homes:u4",
+        "home-guide:leasehold-homes:u5",
+        "home-guide:leasehold-homes:f1",
+        "home-guide:leasehold-homes:f3",
+        "home-guide:leasehold-homes:f2",
+        "home-guide:leasehold-homes:f4",
+        "home-guide:leasehold-homes:f5",
+        "home-guide:leasehold-homes:f6"
+      ],
+      "review": "pending",
+      "body_sha256": "8b583e4f709daa19c1e310bc4310ae0a2bb7337f7b353f5e2d06163a46746b7c"
+    },
+    {
+      "route": "/veryvisa-com-site/home/guide/affordable-co-op-ownership/",
+      "file": "home/guide/affordable-co-op-ownership/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "affordable-co-op-ownership",
+      "audio_keys": [
+        "home-co-op-housing",
+        "home-w24b-affordable-ownership-covenant"
+      ],
+      "topic_facts": [
+        "home-guide:affordable-co-op-ownership:o1",
+        "home-guide:affordable-co-op-ownership:o2",
+        "home-guide:affordable-co-op-ownership:o3",
+        "home-guide:affordable-co-op-ownership:o4",
+        "home-guide:affordable-co-op-ownership:b1",
+        "home-guide:affordable-co-op-ownership:b2",
+        "home-guide:affordable-co-op-ownership:c2",
+        "home-guide:affordable-co-op-ownership:c3",
+        "home-guide:affordable-co-op-ownership:c4",
+        "home-guide:affordable-co-op-ownership:c1",
+        "home-guide:affordable-co-op-ownership:w1"
+      ],
+      "review": "pending",
+      "body_sha256": "fff5572a9fa077d780cc10e85a7eb6f6215a276141b25e714c08a212fe887761"
+    },
+    {
+      "route": "/veryvisa-com-site/home/guide/family-title-divorce/",
+      "file": "home/guide/family-title-divorce/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "family-title-divorce",
+      "audio_keys": [
+        "home-divorce-property-bc",
+        "home-will-joint-tenancy",
+        "home-joint-title-family"
+      ],
+      "topic_facts": [
+        "home-guide:family-title-divorce:j1",
+        "home-guide:family-title-divorce:j2",
+        "home-guide:family-title-divorce:j3",
+        "home-guide:family-title-divorce:j4",
+        "home-guide:family-title-divorce:p1",
+        "home-guide:family-title-divorce:p2",
+        "home-guide:family-title-divorce:j5",
+        "home-guide:family-title-divorce:l2",
+        "home-guide:family-title-divorce:l1",
+        "home-guide:family-title-divorce:l3",
+        "home-guide:family-title-divorce:l4",
+        "home-guide:family-title-divorce:l5",
+        "home-guide:family-title-divorce:l6"
+      ],
+      "review": "pending",
+      "body_sha256": "280b82783ba2a8a4ca9aca0f1e6c3512d5962b155cdd9d22fcd1bf66928343da"
+    },
+    {
       "route": "/veryvisa-com-site/home/guide/condo-vs-detached/",
       "file": "home/guide/condo-vs-detached/index.html",
       "kind": "home",
@@ -4508,6 +4589,43 @@
       "body_sha256": "c65f55d0342449efe986b8bfdadead028bcbc7db201406a197a814c265fcbce5"
     },
     {
+      "route": "/veryvisa-com-site/home/guide/fraser-valley-east/",
+      "file": "home/guide/fraser-valley-east/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "fraser-valley-east",
+      "audio_keys": [
+        "home-surrey-city-plans",
+        "home-langley-township-plans",
+        "home-maple-ridge-pitt",
+        "home-w24b-fraser-valley-east"
+      ],
+      "topic_facts": [
+        "home-guide:fraser-valley-east:s1",
+        "home-guide:fraser-valley-east:s2",
+        "home-guide:fraser-valley-east:s3",
+        "home-guide:fraser-valley-east:s4",
+        "home-guide:fraser-valley-east:s5",
+        "home-guide:fraser-valley-east:s6",
+        "home-guide:fraser-valley-east:l2",
+        "home-guide:fraser-valley-east:l1",
+        "home-guide:fraser-valley-east:l3",
+        "home-guide:fraser-valley-east:p1",
+        "home-guide:fraser-valley-east:p2",
+        "home-guide:fraser-valley-east:m1",
+        "home-guide:fraser-valley-east:m2",
+        "home-guide:fraser-valley-east:a1",
+        "home-guide:fraser-valley-east:a2",
+        "home-guide:fraser-valley-east:c1",
+        "home-guide:fraser-valley-east:c2",
+        "home-guide:fraser-valley-east:t1",
+        "home-guide:fraser-valley-east:t2",
+        "home-guide:fraser-valley-east:t3"
+      ],
+      "review": "pending",
+      "body_sha256": "3287d48f0baa202ec23051911daaa546fd79381a113117fc63a113a2d424a227"
+    },
+    {
       "route": "/veryvisa-com-site/home/guide/vancouver-westside-plans/",
       "file": "home/guide/vancouver-westside-plans/index.html",
       "kind": "home",
@@ -4584,6 +4702,42 @@
       "body_sha256": "47e3f9b470c462d3297a88789f43e28225449be56a1bffe98ade3ae02564c704"
     },
     {
+      "route": "/veryvisa-com-site/home/guide/island-okanagan-sea-to-sky/",
+      "file": "home/guide/island-okanagan-sea-to-sky/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "island-okanagan-sea-to-sky",
+      "audio_keys": [
+        "home-victoria-saanich",
+        "home-w24b-vancouver-island-mid",
+        "home-kelowna",
+        "home-squamish-whistler"
+      ],
+      "topic_facts": [
+        "home-guide:island-okanagan-sea-to-sky:x2",
+        "home-guide:island-okanagan-sea-to-sky:x1",
+        "home-guide:island-okanagan-sea-to-sky:x3",
+        "home-guide:island-okanagan-sea-to-sky:v1",
+        "home-guide:island-okanagan-sea-to-sky:r1",
+        "home-guide:island-okanagan-sea-to-sky:r2",
+        "home-guide:island-okanagan-sea-to-sky:r3",
+        "home-guide:island-okanagan-sea-to-sky:r4",
+        "home-guide:island-okanagan-sea-to-sky:k1",
+        "home-guide:island-okanagan-sea-to-sky:k2",
+        "home-guide:island-okanagan-sea-to-sky:t1",
+        "home-guide:island-okanagan-sea-to-sky:t2",
+        "home-guide:island-okanagan-sea-to-sky:k4",
+        "home-guide:island-okanagan-sea-to-sky:k3",
+        "home-guide:island-okanagan-sea-to-sky:c1",
+        "home-guide:island-okanagan-sea-to-sky:c2",
+        "home-guide:island-okanagan-sea-to-sky:w1",
+        "home-guide:island-okanagan-sea-to-sky:w2",
+        "home-guide:island-okanagan-sea-to-sky:w3"
+      ],
+      "review": "pending",
+      "body_sha256": "ec06f264384f61c75fc829aed82945c5ce5008a8e38d87443e6b22e92cdad0f1"
+    },
+    {
       "route": "/veryvisa-com-site/home/guide/crime-safety-data/",
       "file": "home/guide/crime-safety-data/index.html",
       "kind": "home",
@@ -4611,8 +4765,8 @@
       "file": "home/guide/index.html",
       "kind": "home",
       "section": "guide-index",
-      "review": "reviewed",
-      "body_sha256": "b385216c9f386ca65432138e18a26c9db558dc4e2aa42125f88a455b9ed45821",
+      "review": "stale",
+      "body_sha256": "95fc6cb6ccbdf72b45618511b3449f4e9f6d4148061ba4279e903eec461101b5",
       "review_receipt": {
         "reviewer": "微出国编辑部",
         "date": "2026-10-22"
@@ -7009,6 +7163,76 @@
       "page": "/veryvisa-com-site/home/guide/cooling-rental-strata/"
     },
     {
+      "route": "/veryvisa-com-site/cards/fve-jurisdiction/",
+      "file": "cards/fve-jurisdiction/index.html",
+      "kind": "card",
+      "key": "fve-jurisdiction",
+      "page": "/veryvisa-com-site/home/guide/fraser-valley-east/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/fve-flood-alr/",
+      "file": "cards/fve-flood-alr/index.html",
+      "kind": "card",
+      "key": "fve-flood-alr",
+      "page": "/veryvisa-com-site/home/guide/fraser-valley-east/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/ios-taxes/",
+      "file": "cards/ios-taxes/index.html",
+      "kind": "card",
+      "key": "ios-taxes",
+      "page": "/veryvisa-com-site/home/guide/island-okanagan-sea-to-sky/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/ios-str/",
+      "file": "cards/ios-str/index.html",
+      "kind": "card",
+      "key": "ios-str",
+      "page": "/veryvisa-com-site/home/guide/island-okanagan-sea-to-sky/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/lh-what/",
+      "file": "cards/lh-what/index.html",
+      "kind": "card",
+      "key": "lh-what",
+      "page": "/veryvisa-com-site/home/guide/leasehold-homes/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/lh-who/",
+      "file": "cards/lh-who/index.html",
+      "kind": "card",
+      "key": "lh-who",
+      "page": "/veryvisa-com-site/home/guide/leasehold-homes/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/aff-coop/",
+      "file": "cards/aff-coop/index.html",
+      "kind": "card",
+      "key": "aff-coop",
+      "page": "/veryvisa-com-site/home/guide/affordable-co-op-ownership/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/aff-covenant/",
+      "file": "cards/aff-covenant/index.html",
+      "kind": "card",
+      "key": "aff-covenant",
+      "page": "/veryvisa-com-site/home/guide/affordable-co-op-ownership/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/fam-tenancy/",
+      "file": "cards/fam-tenancy/index.html",
+      "kind": "card",
+      "key": "fam-tenancy",
+      "page": "/veryvisa-com-site/home/guide/family-title-divorce/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/fam-divorce/",
+      "file": "cards/fam-divorce/index.html",
+      "kind": "card",
+      "key": "fam-divorce",
+      "page": "/veryvisa-com-site/home/guide/family-title-divorce/"
+    },
+    {
       "route": "/veryvisa-com-site/about/licences/",
       "file": "about/licences/index.html",
       "kind": "page"
@@ -7109,7 +7333,7 @@
     }
   ],
   "counts": {
-    "html": 431,
+    "html": 446,
     "answers": 25,
     "shorts": 25,
     "facts": 5574
