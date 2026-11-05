@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T02:44:19.242Z",
+  "generated": "2026-11-05T02:58:18.023Z",
   "allowedTop": [
     "tax",
     "property",
@@ -373,7 +373,7 @@
       "section": "index",
       "facts_used": [],
       "review": "stale",
-      "body_sha256": "b8c0303c8f13ca3b957ba9cf5557ab4d1eecebc9c8209817c495395a439f9512",
+      "body_sha256": "4525bdd4241d4bb32951efdf77c601aef0f91f17b4fd9f15151de7729b058982",
       "review_receipt": {
         "reviewer": "微出国编辑部",
         "date": "2026-10-22"
@@ -2398,6 +2398,33 @@
       "body_sha256": "206c363d645bf0bc9925b79e875911615cbd20b3240e2e748a12558fb2cb4b8a"
     },
     {
+      "route": "/veryvisa-com-site/home/guide/alr-farmland/",
+      "file": "home/guide/alr-farmland/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "alr-farmland",
+      "audio_keys": [
+        "home-alr-farmland"
+      ],
+      "topic_facts": [
+        "home-guide:alr-farmland:l1",
+        "home-guide:alr-farmland:a1",
+        "home-guide:alr-farmland:a7",
+        "home-guide:alr-farmland:a2",
+        "home-guide:alr-farmland:a8",
+        "home-guide:alr-farmland:a3",
+        "home-guide:alr-farmland:a4",
+        "home-guide:alr-farmland:a5",
+        "home-guide:alr-farmland:a6",
+        "home-guide:alr-farmland:t1",
+        "home-guide:alr-farmland:t2",
+        "home-guide:alr-farmland:t3",
+        "home-guide:alr-farmland:s1"
+      ],
+      "review": "pending",
+      "body_sha256": "b9cb123895eae884400d2da5e04f1d30edf1bbd60120b6a5c401dd59a246ab20"
+    },
+    {
       "route": "/veryvisa-com-site/home/guide/holding-costs-detached/",
       "file": "home/guide/holding-costs-detached/index.html",
       "kind": "home",
@@ -3137,6 +3164,32 @@
       ],
       "review": "pending",
       "body_sha256": "280b82783ba2a8a4ca9aca0f1e6c3512d5962b155cdd9d22fcd1bf66928343da"
+    },
+    {
+      "route": "/veryvisa-com-site/home/guide/working-with-realtor/",
+      "file": "home/guide/working-with-realtor/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "working-with-realtor",
+      "audio_keys": [
+        "home-realtor-regulation"
+      ],
+      "topic_facts": [
+        "home-guide:working-with-realtor:d2",
+        "home-guide:working-with-realtor:d1",
+        "home-guide:working-with-realtor:d4",
+        "home-guide:working-with-realtor:d5",
+        "home-guide:working-with-realtor:d3",
+        "home-guide:working-with-realtor:h1",
+        "home-guide:working-with-realtor:h2",
+        "home-guide:working-with-realtor:h5",
+        "home-guide:working-with-realtor:h3",
+        "home-guide:working-with-realtor:h4",
+        "home-guide:working-with-realtor:h6",
+        "home-guide:working-with-realtor:d6"
+      ],
+      "review": "pending",
+      "body_sha256": "cfb6b7e814e24c24d4619bc4aa1a9c94e847e8e850a5cdd4d32a551a099c1acd"
     },
     {
       "route": "/veryvisa-com-site/home/guide/condo-vs-detached/",
@@ -3900,6 +3953,30 @@
       ],
       "review": "pending",
       "body_sha256": "3b1ddac6097d03362db2ad0afd61431a0eb8724248de6e42021b950b3fe8bad0"
+    },
+    {
+      "route": "/veryvisa-com-site/home/guide/earthquake-ground-risk/",
+      "file": "home/guide/earthquake-ground-risk/index.html",
+      "kind": "home",
+      "section": "guide",
+      "slug": "earthquake-ground-risk",
+      "audio_keys": [
+        "home-seismic-microzonation"
+      ],
+      "topic_facts": [
+        "home-guide:earthquake-ground-risk:g1",
+        "home-guide:earthquake-ground-risk:g2",
+        "home-guide:earthquake-ground-risk:g4",
+        "home-guide:earthquake-ground-risk:g3",
+        "home-guide:earthquake-ground-risk:g5",
+        "home-guide:earthquake-ground-risk:m1",
+        "home-guide:earthquake-ground-risk:r1",
+        "home-guide:earthquake-ground-risk:r2",
+        "home-guide:earthquake-ground-risk:i1",
+        "home-guide:earthquake-ground-risk:i2"
+      ],
+      "review": "pending",
+      "body_sha256": "7ceeb0b799d08b4099599d3a2493abab2171fc64b42d33d889598b252a1fd93e"
     },
     {
       "route": "/veryvisa-com-site/home/guide/home-insurance-claims/",
@@ -4766,7 +4843,7 @@
       "kind": "home",
       "section": "guide-index",
       "review": "stale",
-      "body_sha256": "95fc6cb6ccbdf72b45618511b3449f4e9f6d4148061ba4279e903eec461101b5",
+      "body_sha256": "9c477e10573e69e94061715c4d3d7fb1b83496548fa8d5dc8abb25890837b036",
       "review_receipt": {
         "reviewer": "微出国编辑部",
         "date": "2026-10-22"
@@ -7233,6 +7310,48 @@
       "page": "/veryvisa-com-site/home/guide/family-title-divorce/"
     },
     {
+      "route": "/veryvisa-com-site/cards/alr-house/",
+      "file": "cards/alr-house/index.html",
+      "kind": "card",
+      "key": "alr-house",
+      "page": "/veryvisa-com-site/home/guide/alr-farmland/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/alr-farmtax/",
+      "file": "cards/alr-farmtax/index.html",
+      "kind": "card",
+      "key": "alr-farmtax",
+      "page": "/veryvisa-com-site/home/guide/alr-farmland/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/rea-agency/",
+      "file": "cards/rea-agency/index.html",
+      "kind": "card",
+      "key": "rea-agency",
+      "page": "/veryvisa-com-site/home/guide/working-with-realtor/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/rea-rescind/",
+      "file": "cards/rea-rescind/index.html",
+      "kind": "card",
+      "key": "rea-rescind",
+      "page": "/veryvisa-com-site/home/guide/working-with-realtor/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/eq-soil/",
+      "file": "cards/eq-soil/index.html",
+      "kind": "card",
+      "key": "eq-soil",
+      "page": "/veryvisa-com-site/home/guide/earthquake-ground-risk/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/eq-deductible/",
+      "file": "cards/eq-deductible/index.html",
+      "kind": "card",
+      "key": "eq-deductible",
+      "page": "/veryvisa-com-site/home/guide/earthquake-ground-risk/"
+    },
+    {
       "route": "/veryvisa-com-site/about/licences/",
       "file": "about/licences/index.html",
       "kind": "page"
@@ -7333,7 +7452,7 @@
     }
   ],
   "counts": {
-    "html": 446,
+    "html": 455,
     "answers": 25,
     "shorts": 25,
     "facts": 5574
