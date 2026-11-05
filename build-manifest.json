@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T04:12:16.820Z",
+  "generated": "2026-11-05T04:39:36.661Z",
   "allowedTop": [
     "tax",
     "property",
@@ -5603,7 +5603,7 @@
       "kind": "answer",
       "id": "re-10",
       "vertical": "房产",
-      "draft": true,
+      "draft": false,
       "facts_used": [
         "academy-numbers:VVT-PR-01",
         "academy-numbers:VVT-PR-02",
@@ -5765,7 +5765,7 @@
       "kind": "answer",
       "id": "cb-06",
       "vertical": "跨境家庭与资产",
-      "draft": true,
+      "draft": false,
       "facts_used": [
         "academy-numbers:VVT-ES-14",
         "academy-numbers:VVT-ES-06",
@@ -5908,7 +5908,7 @@
       "kind": "answer",
       "id": "tax-17",
       "vertical": "税务",
-      "draft": true,
+      "draft": false,
       "facts_used": [
         "academy-numbers:VVT-SE-01",
         "academy-numbers:VVT-SE-05",
@@ -5941,7 +5941,7 @@
       "kind": "answer",
       "id": "rt-05",
       "vertical": "退休与养老",
-      "draft": true,
+      "draft": false,
       "facts_used": [
         "academy-accounts:oas_threshold",
         "academy-accounts:oas_rate",
