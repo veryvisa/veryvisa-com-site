@@ -5,3 +5,4 @@
 - 落地第一年报税，全球收入从哪天算: 新移民通常从在加拿大建立居所联系的那天起成为税务居民，第一年只报成为居民之后的全球收入，落地前在国内的收入不报 https://veryvisa.github.io/veryvisa-com-site/tax/first-year-tax-return-newcomer/
 - RRSP 与 TFSA 先存哪个: RRSP 存入时抵税、取出时计税，适合现在税率高于退休时的人；TFSA 存入不抵税、增长与取出都免税，取出的额度次年恢复 https://veryvisa.github.io/veryvisa-com-site/tax/rrsp-or-tfsa-first/
 - 回国长住前，离境报税怎样收尾: 成为非居民的日期通常是本人、配偶与受抚养人离开及成为新居住国居民中最晚的一天；当年报离境前的全球收入 https://veryvisa.github.io/veryvisa-com-site/tax/departure-tax-leaving-canada/
+- 副业与自雇收入怎样报税、何时注册 GST: 自雇与副业收入用 T2125 申报，可扣除与经营相关的费用；自雇须同时缴纳 CPP 雇主与雇员两份 https://veryvisa.github.io/veryvisa-com-site/tax/side-income-gst-registration/

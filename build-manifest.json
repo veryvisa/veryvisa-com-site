@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T03:23:01.683Z",
+  "generated": "2026-11-05T04:12:16.820Z",
   "allowedTop": [
     "tax",
     "property",
@@ -39,13 +39,6 @@
       "title": "从国内汇钱到加拿大，怎样留好证明"
     },
     {
-      "id": "re-10",
-      "route": "/veryvisa-com-site/property/principal-residence-exemption/",
-      "short": "/veryvisa-com-site/q/re-10/",
-      "vertical": "房产",
-      "title": "卖自住房要交资本利得税吗"
-    },
-    {
       "id": "re-03",
       "route": "/veryvisa-com-site/property/temporary-resident-buy-home-bc/",
       "short": "/veryvisa-com-site/q/re-03/",
@@ -74,13 +67,6 @@
       "title": "卖掉国内的房子，在加拿大要交税吗"
     },
     {
-      "id": "cb-06",
-      "route": "/veryvisa-com-site/cross-border/executor-duties-bc/",
-      "short": "/veryvisa-com-site/q/cb-06/",
-      "vertical": "跨境家庭与资产",
-      "title": "担任遗嘱执行人，要办哪些事、报哪些税"
-    },
-    {
       "id": "cb-02",
       "route": "/veryvisa-com-site/cross-border/assets-before-immigrating/",
       "short": "/veryvisa-com-site/q/cb-02/",
@@ -107,13 +93,6 @@
       "short": "/veryvisa-com-site/q/pi-10/",
       "vertical": "普通保险",
       "title": "公寓有大楼保险，自己还要买吗"
-    },
-    {
-      "id": "tax-17",
-      "route": "/veryvisa-com-site/tax/side-income-gst-registration/",
-      "short": "/veryvisa-com-site/q/tax-17/",
-      "vertical": "税务",
-      "title": "副业与自雇收入怎样报税、何时注册 GST"
     },
     {
       "id": "lc-06",
@@ -221,13 +200,6 @@
       "title": "房产加上子女名字的税务与产权风险"
     },
     {
-      "id": "rt-05",
-      "route": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/",
-      "short": "/veryvisa-com-site/q/rt-05/",
-      "vertical": "退休与养老",
-      "title": "退休后先动哪个账户，怎样避免 OAS 回收"
-    },
-    {
       "id": "tax-07",
       "route": "/veryvisa-com-site/tax/cra-objection-deadline/",
       "short": "/veryvisa-com-site/q/tax-07/",
@@ -294,6 +266,11 @@
     {
       "route": "/veryvisa-com-site/start/new-baby/",
       "file": "start/new-baby/index.html",
+      "kind": "page"
+    },
+    {
+      "route": "/veryvisa-com-site/start/small-business/",
+      "file": "start/small-business/index.html",
       "kind": "page"
     },
     {
@@ -5621,6 +5598,39 @@
       "target": "/veryvisa-com-site/retirement/cpp-start-age/"
     },
     {
+      "route": "/veryvisa-com-site/property/principal-residence-exemption/",
+      "file": "property/principal-residence-exemption/index.html",
+      "kind": "answer",
+      "id": "re-10",
+      "vertical": "房产",
+      "draft": true,
+      "facts_used": [
+        "academy-numbers:VVT-PR-01",
+        "academy-numbers:VVT-PR-02",
+        "academy-numbers:VVT-PR-03",
+        "academy-numbers:VVT-PR-04",
+        "academy-numbers:VVT-PR-06",
+        "academy-numbers:VVT-PR-09",
+        "status-compass:departure_tax.capital_gain_inclusion",
+        "academy-numbers:VVT-PR-05",
+        "academy-numbers:VVT-PR-07",
+        "academy-numbers:VVT-PR-10",
+        "academy-numbers:VVT-PR-08",
+        "pplx-verified:pplx-home-1017:01:29"
+      ],
+      "selectors": [
+        "status-compass:departure_tax.capital_gain_inclusion"
+      ],
+      "component": "ScenarioCalc"
+    },
+    {
+      "route": "/veryvisa-com-site/q/re-10/",
+      "file": "q/re-10/index.html",
+      "kind": "short",
+      "id": "re-10",
+      "target": "/veryvisa-com-site/property/principal-residence-exemption/"
+    },
+    {
       "route": "/veryvisa-com-site/tax/rrsp-or-tfsa-first/",
       "file": "tax/rrsp-or-tfsa-first/index.html",
       "kind": "answer",
@@ -5750,6 +5760,42 @@
       "target": "/veryvisa-com-site/benefits/ccb-newcomer-eligibility/"
     },
     {
+      "route": "/veryvisa-com-site/cross-border/executor-duties-bc/",
+      "file": "cross-border/executor-duties-bc/index.html",
+      "kind": "answer",
+      "id": "cb-06",
+      "vertical": "跨境家庭与资产",
+      "draft": true,
+      "facts_used": [
+        "academy-numbers:VVT-ES-14",
+        "academy-numbers:VVT-ES-06",
+        "academy-numbers:VVT-ES-07",
+        "academy-numbers:VVT-ES-01",
+        "academy-numbers:VVT-ES-15",
+        "academy-numbers:VVT-ES-04",
+        "academy-numbers:VVT-ES-17",
+        "academy-numbers:VVT-ES-10",
+        "academy-numbers:VVT-ES-11",
+        "academy-numbers:VVT-ES-12",
+        "academy-numbers:VVT-ES-13",
+        "academy-numbers:VVT-ES-08",
+        "academy-numbers:VVT-ES-03",
+        "academy-numbers:VVT-ES-02",
+        "academy-numbers:VVT-ES-05",
+        "academy-numbers:VVT-ES-09",
+        "academy-numbers:VVT-ES-16"
+      ],
+      "selectors": [],
+      "component": "none"
+    },
+    {
+      "route": "/veryvisa-com-site/q/cb-06/",
+      "file": "q/cb-06/index.html",
+      "kind": "short",
+      "id": "cb-06",
+      "target": "/veryvisa-com-site/cross-border/executor-duties-bc/"
+    },
+    {
       "route": "/veryvisa-com-site/immigration/pr-card-renewal-730-days/",
       "file": "immigration/pr-card-renewal-730-days/index.html",
       "kind": "answer",
@@ -5855,6 +5901,81 @@
       "kind": "short",
       "id": "rt-02",
       "target": "/veryvisa-com-site/retirement/oas-residence-years-parents/"
+    },
+    {
+      "route": "/veryvisa-com-site/tax/side-income-gst-registration/",
+      "file": "tax/side-income-gst-registration/index.html",
+      "kind": "answer",
+      "id": "tax-17",
+      "vertical": "税务",
+      "draft": true,
+      "facts_used": [
+        "academy-numbers:VVT-SE-01",
+        "academy-numbers:VVT-SE-05",
+        "academy-numbers:VVT-SE-06",
+        "academy-numbers:VVT-SE-02",
+        "academy-numbers:VVT-SE-03",
+        "academy-numbers:VVT-SE-04",
+        "academy-numbers:VVT-SE-11",
+        "academy-numbers:VVT-SE-07",
+        "academy-numbers:VVT-SE-08",
+        "academy-numbers:VVT-SE-09",
+        "academy-numbers:VVT-SE-10",
+        "academy-numbers:VVT-SE-14",
+        "academy-numbers:VVT-SE-12",
+        "academy-numbers:VVT-SE-13"
+      ],
+      "selectors": [],
+      "component": "RuleTimeline"
+    },
+    {
+      "route": "/veryvisa-com-site/q/tax-17/",
+      "file": "q/tax-17/index.html",
+      "kind": "short",
+      "id": "tax-17",
+      "target": "/veryvisa-com-site/tax/side-income-gst-registration/"
+    },
+    {
+      "route": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/",
+      "file": "retirement/retirement-withdrawal-oas-clawback/index.html",
+      "kind": "answer",
+      "id": "rt-05",
+      "vertical": "退休与养老",
+      "draft": true,
+      "facts_used": [
+        "academy-accounts:oas_threshold",
+        "academy-accounts:oas_rate",
+        "academy-numbers:VVT-RT-04",
+        "academy-numbers:VVT-RT-03",
+        "academy-numbers:VVT-RT-01",
+        "academy-accounts:rrsp_age",
+        "academy-accounts:rrif_factors",
+        "academy-numbers:VVT-RT-02",
+        "academy-accounts:rrif_pension_age",
+        "academy-accounts:rrif_pension_federal",
+        "pplx-verified:pplx-1017:12:170",
+        "pplx-verified:pplx-1017:12:171",
+        "status-compass:oas.min_age",
+        "academy-numbers:VVT-RT-05",
+        "academy-numbers:VVT-RT-06",
+        "academy-accounts:tfsa_replacement"
+      ],
+      "selectors": [
+        "academy-accounts:oas_threshold",
+        "academy-accounts:oas_rate",
+        "academy-accounts:rrif_factors",
+        "academy-accounts:rrif_minimum",
+        "academy-accounts:rrsp_age",
+        "status-compass:oas.recovery_threshold_2025"
+      ],
+      "component": "ScenarioCalc"
+    },
+    {
+      "route": "/veryvisa-com-site/q/rt-05/",
+      "file": "q/rt-05/index.html",
+      "kind": "short",
+      "id": "rt-05",
+      "target": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/"
     },
     {
       "route": "/veryvisa-com-site/cards/ties-ladder/",
@@ -7397,6 +7518,62 @@
       "page": "/veryvisa-com-site/home/guide/earthquake-ground-risk/"
     },
     {
+      "route": "/veryvisa-com-site/cards/pre-ratio/",
+      "file": "cards/pre-ratio/index.html",
+      "kind": "card",
+      "key": "pre-ratio",
+      "page": "/veryvisa-com-site/property/principal-residence-exemption/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/pre-report/",
+      "file": "cards/pre-report/index.html",
+      "kind": "card",
+      "key": "pre-report",
+      "page": "/veryvisa-com-site/property/principal-residence-exemption/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/side-income-cpp/",
+      "file": "cards/side-income-cpp/index.html",
+      "kind": "card",
+      "key": "side-income-cpp",
+      "page": "/veryvisa-com-site/tax/side-income-gst-registration/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/side-income-gst/",
+      "file": "cards/side-income-gst/index.html",
+      "kind": "card",
+      "key": "side-income-gst",
+      "page": "/veryvisa-com-site/tax/side-income-gst-registration/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/rt-order/",
+      "file": "cards/rt-order/index.html",
+      "kind": "card",
+      "key": "rt-order",
+      "page": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/rt-split/",
+      "file": "cards/rt-split/index.html",
+      "kind": "card",
+      "key": "rt-split",
+      "page": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/exec-order/",
+      "file": "cards/exec-order/index.html",
+      "kind": "card",
+      "key": "exec-order",
+      "page": "/veryvisa-com-site/cross-border/executor-duties-bc/"
+    },
+    {
+      "route": "/veryvisa-com-site/cards/exec-probate/",
+      "file": "cards/exec-probate/index.html",
+      "kind": "card",
+      "key": "exec-probate",
+      "page": "/veryvisa-com-site/cross-border/executor-duties-bc/"
+    },
+    {
       "route": "/veryvisa-com-site/about/licences/",
       "file": "about/licences/index.html",
       "kind": "page"
@@ -7497,10 +7674,10 @@
     }
   ],
   "counts": {
-    "html": 455,
-    "answers": 25,
-    "shorts": 25,
-    "facts": 5574
+    "html": 472,
+    "answers": 29,
+    "shorts": 29,
+    "facts": 5621
   },
   "config": {
     "attribution_mode": "query",

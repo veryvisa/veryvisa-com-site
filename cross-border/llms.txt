@@ -1,3 +1,4 @@
 # 跨境家庭与资产
 
 - 一家人分住两国，税务居民怎样认定: 配偶和孩子住在加拿大、一方在国内工作，在国内的一方仍可能因重要居所联系被视为加拿大税务居民，按全球收入报税 https://veryvisa.github.io/veryvisa-com-site/cross-border/astronaut-family-tax-residency/
+- 担任遗嘱执行人，要办哪些事、报哪些税: 执行人先找遗嘱、办遗嘱认证（probate）、清点资产与债务，再报最终 T1 与遗产信托税表，取得 CRA 清税证明后才分配 https://veryvisa.github.io/veryvisa-com-site/cross-border/executor-duties-bc/

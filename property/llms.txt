@@ -3,3 +3,4 @@
 - 首次买房：FHSA、HBP 与首购免税能否叠加: FHSA 每年 8,000、终身 40,000 加元，取出买首套房免税；HBP 可从 RRSP 取最多 6 万，分 15 年还；两者可以用于同一套房 https://veryvisa.github.io/veryvisa-com-site/property/fhsa-hbp-first-home-stacking/
 - 在 BC 买房，房价之外还要备多少钱: 主要的额外开支：产权转让税（PTT）、律师或公证费、验房、估价、房屋险、按揭保险（首付不足 20% 时）与搬家 https://veryvisa.github.io/veryvisa-com-site/property/bc-home-purchase-closing-costs/
 - 买 strata 公寓前，文件要看哪几份: 重点文件：近两年业主会议纪要、应急储备基金（CRF）余额、折旧报告、strata 规章、Form B 信息证明与大楼保险证书 https://veryvisa.github.io/veryvisa-com-site/property/strata-documents-checklist/
+- 卖自住房要交资本利得税吗: 指定为主要住所的年份，出售增值免税；须在当年报税时申报出售并填 T2091 指定，不报可能被罚 https://veryvisa.github.io/veryvisa-com-site/property/principal-residence-exemption/

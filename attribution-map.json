@@ -19,12 +19,16 @@
     "im-06": "/veryvisa-com-site/immigration/maintained-status-work/",
     "ed-06": "/veryvisa-com-site/education/study-to-pr-pathways/",
     "rt-01": "/veryvisa-com-site/retirement/cpp-start-age/",
+    "re-10": "/veryvisa-com-site/property/principal-residence-exemption/",
     "tax-10": "/veryvisa-com-site/tax/rrsp-or-tfsa-first/",
     "pi-02": "/veryvisa-com-site/insurance/super-visa-insurance-requirements/",
     "bf-01": "/veryvisa-com-site/benefits/ccb-newcomer-eligibility/",
+    "cb-06": "/veryvisa-com-site/cross-border/executor-duties-bc/",
     "im-03": "/veryvisa-com-site/immigration/pr-card-renewal-730-days/",
     "tax-13": "/veryvisa-com-site/tax/departure-tax-leaving-canada/",
-    "rt-02": "/veryvisa-com-site/retirement/oas-residence-years-parents/"
+    "rt-02": "/veryvisa-com-site/retirement/oas-residence-years-parents/",
+    "tax-17": "/veryvisa-com-site/tax/side-income-gst-registration/",
+    "rt-05": "/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/"
   },
   "advisors": []
 }
