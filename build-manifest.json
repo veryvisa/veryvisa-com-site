@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T02:58:18.023Z",
+  "generated": "2026-11-05T03:17:44.813Z",
   "allowedTop": [
     "tax",
     "property",
@@ -2421,8 +2421,12 @@
         "home-guide:alr-farmland:t3",
         "home-guide:alr-farmland:s1"
       ],
-      "review": "pending",
-      "body_sha256": "b9cb123895eae884400d2da5e04f1d30edf1bbd60120b6a5c401dd59a246ab20"
+      "review": "reviewed",
+      "body_sha256": "b9cb123895eae884400d2da5e04f1d30edf1bbd60120b6a5c401dd59a246ab20",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/holding-costs-detached/",
@@ -3107,8 +3111,12 @@
         "home-guide:leasehold-homes:f5",
         "home-guide:leasehold-homes:f6"
       ],
-      "review": "pending",
-      "body_sha256": "8b583e4f709daa19c1e310bc4310ae0a2bb7337f7b353f5e2d06163a46746b7c"
+      "review": "reviewed",
+      "body_sha256": "8b583e4f709daa19c1e310bc4310ae0a2bb7337f7b353f5e2d06163a46746b7c",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/affordable-co-op-ownership/",
@@ -3127,14 +3135,19 @@
         "home-guide:affordable-co-op-ownership:o4",
         "home-guide:affordable-co-op-ownership:b1",
         "home-guide:affordable-co-op-ownership:b2",
+        "home-guide:affordable-co-op-ownership:b3",
         "home-guide:affordable-co-op-ownership:c2",
         "home-guide:affordable-co-op-ownership:c3",
         "home-guide:affordable-co-op-ownership:c4",
         "home-guide:affordable-co-op-ownership:c1",
         "home-guide:affordable-co-op-ownership:w1"
       ],
-      "review": "pending",
-      "body_sha256": "fff5572a9fa077d780cc10e85a7eb6f6215a276141b25e714c08a212fe887761"
+      "review": "reviewed",
+      "body_sha256": "4dad0c8f891d46fab7869376639a16ea29a8b96ca05dd4fc6f8c89e0829c7435",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/family-title-divorce/",
@@ -3154,16 +3167,27 @@
         "home-guide:family-title-divorce:j4",
         "home-guide:family-title-divorce:p1",
         "home-guide:family-title-divorce:p2",
+        "home-guide:family-title-divorce:p3",
         "home-guide:family-title-divorce:j5",
+        "home-guide:family-title-divorce:j6",
+        "home-guide:family-title-divorce:j7",
+        "home-guide:family-title-divorce:c1",
+        "home-guide:family-title-divorce:c2",
+        "home-guide:family-title-divorce:c3",
         "home-guide:family-title-divorce:l2",
         "home-guide:family-title-divorce:l1",
+        "home-guide:family-title-divorce:s1",
         "home-guide:family-title-divorce:l3",
         "home-guide:family-title-divorce:l4",
         "home-guide:family-title-divorce:l5",
         "home-guide:family-title-divorce:l6"
       ],
-      "review": "pending",
-      "body_sha256": "280b82783ba2a8a4ca9aca0f1e6c3512d5962b155cdd9d22fcd1bf66928343da"
+      "review": "reviewed",
+      "body_sha256": "d9bc86bb415f4645ee9ef78d0ffb255801ab20a0924eb8239f99ddeec16c759f",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/working-with-realtor/",
@@ -3188,8 +3212,12 @@
         "home-guide:working-with-realtor:h6",
         "home-guide:working-with-realtor:d6"
       ],
-      "review": "pending",
-      "body_sha256": "cfb6b7e814e24c24d4619bc4aa1a9c94e847e8e850a5cdd4d32a551a099c1acd"
+      "review": "reviewed",
+      "body_sha256": "cfb6b7e814e24c24d4619bc4aa1a9c94e847e8e850a5cdd4d32a551a099c1acd",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/condo-vs-detached/",
@@ -3969,14 +3997,20 @@
         "home-guide:earthquake-ground-risk:g4",
         "home-guide:earthquake-ground-risk:g3",
         "home-guide:earthquake-ground-risk:g5",
+        "home-guide:earthquake-ground-risk:g6",
+        "home-guide:earthquake-ground-risk:g7",
         "home-guide:earthquake-ground-risk:m1",
         "home-guide:earthquake-ground-risk:r1",
         "home-guide:earthquake-ground-risk:r2",
         "home-guide:earthquake-ground-risk:i1",
         "home-guide:earthquake-ground-risk:i2"
       ],
-      "review": "pending",
-      "body_sha256": "7ceeb0b799d08b4099599d3a2493abab2171fc64b42d33d889598b252a1fd93e"
+      "review": "reviewed",
+      "body_sha256": "36b527bca565df0f4d76ccdd23d88151c4442c3f30814fa69428e1069e5913c1",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/home-insurance-claims/",
@@ -4690,6 +4724,7 @@
         "home-guide:fraser-valley-east:p1",
         "home-guide:fraser-valley-east:p2",
         "home-guide:fraser-valley-east:m1",
+        "home-guide:fraser-valley-east:m3",
         "home-guide:fraser-valley-east:m2",
         "home-guide:fraser-valley-east:a1",
         "home-guide:fraser-valley-east:a2",
@@ -4699,8 +4734,12 @@
         "home-guide:fraser-valley-east:t2",
         "home-guide:fraser-valley-east:t3"
       ],
-      "review": "pending",
-      "body_sha256": "3287d48f0baa202ec23051911daaa546fd79381a113117fc63a113a2d424a227"
+      "review": "reviewed",
+      "body_sha256": "73fee418d1b3397c4e139262ea286b4d7ce2835d29980884fa960bf83086f748",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/vancouver-westside-plans/",
@@ -4795,6 +4834,7 @@
         "home-guide:island-okanagan-sea-to-sky:x1",
         "home-guide:island-okanagan-sea-to-sky:x3",
         "home-guide:island-okanagan-sea-to-sky:v1",
+        "home-guide:island-okanagan-sea-to-sky:v2",
         "home-guide:island-okanagan-sea-to-sky:r1",
         "home-guide:island-okanagan-sea-to-sky:r2",
         "home-guide:island-okanagan-sea-to-sky:r3",
@@ -4805,14 +4845,19 @@
         "home-guide:island-okanagan-sea-to-sky:t2",
         "home-guide:island-okanagan-sea-to-sky:k4",
         "home-guide:island-okanagan-sea-to-sky:k3",
+        "home-guide:island-okanagan-sea-to-sky:k5",
         "home-guide:island-okanagan-sea-to-sky:c1",
         "home-guide:island-okanagan-sea-to-sky:c2",
         "home-guide:island-okanagan-sea-to-sky:w1",
         "home-guide:island-okanagan-sea-to-sky:w2",
         "home-guide:island-okanagan-sea-to-sky:w3"
       ],
-      "review": "pending",
-      "body_sha256": "ec06f264384f61c75fc829aed82945c5ce5008a8e38d87443e6b22e92cdad0f1"
+      "review": "reviewed",
+      "body_sha256": "5b58ddfa6806adeef3a4f99f86690d3b5f5388f4d3e15a4005bd06d312326a88",
+      "review_receipt": {
+        "reviewer": "claude-opus-C278",
+        "date": "2026-11-05"
+      }
     },
     {
       "route": "/veryvisa-com-site/home/guide/crime-safety-data/",
