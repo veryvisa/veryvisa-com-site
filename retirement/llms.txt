@@ -1,0 +1,5 @@
+# 退休与养老
+
+- CPP 在 60、65、70 岁开始领，差多少: CPP 最早 60 岁、最晚 70 岁开始领；65 岁之前领每提前一个月减额，65 岁之后每推迟一个月增额 https://veryvisa.github.io/veryvisa-com-site/retirement/cpp-start-age/
+- 父母移民后，OAS 要住满多少年: 在加拿大领 OAS 需年满 65 岁、18 岁后在加居住至少 10 年；全额需 40 年，不足按每年四十分之一计算 https://veryvisa.github.io/veryvisa-com-site/retirement/oas-residence-years-parents/
+- 退休后先动哪个账户，怎样避免 OAS 回收: OAS 在个人净收入超过门槛后按 15% 回收：2026 年门槛为 95,323 加元；RRSP、RRIF 提款计入收入，TFSA 提款不计 https://veryvisa.github.io/veryvisa-com-site/retirement/retirement-withdrawal-oas-clawback/
