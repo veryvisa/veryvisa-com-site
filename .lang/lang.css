@@ -5,8 +5,24 @@ html[data-lang="both"] .l-en { border-bottom: 1px solid currentColor; }
 html[data-lang="both"] .l-en .lang-switch { display: none; }
 /* 紧凑切换条：放在正文区开头、靠右的一行短按钮，不固定、不粘顶 */
 .lang-switch { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .35rem; margin: .5rem auto; padding: 0 1rem; max-width: 70rem; position: static; }
-.lang-switch button { min-height: 2.75rem; min-width: 2.75rem; padding: .25rem .6rem; font-size: .875rem; line-height: 1; border-radius: .5rem; }
+.lang-switch button { min-height: 2.75rem; min-width: 2.75rem; padding: .25rem .6rem; font-size: .875rem; line-height: 1; border-radius: .5rem; color: inherit; background: transparent; border: 1px solid currentColor; cursor: pointer; }
+/* 2026-11-21：按钮继承正文前景色、透明底，深浅两套主题下对比度都等于正文（原用浏览器默认按钮色，深色模式 axe color-contrast 全站报红挡发布）。回退：删上一行新增的四个属性。 */
 .lang-switch button[aria-pressed="true"] { font-weight: 700; text-decoration: underline; }
 .lang-english { max-width: 70rem; margin: 0 auto; padding: 1rem; }
 .lang-coming { max-width: 42rem; margin: 3rem auto; }
 .lang-h1 { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 700; line-height: 1.2; margin: .5em 0; }
+
+/* veryvisa-com 英文区 */
+.lang-english{max-width:none;padding:0;position:relative}
+.lang-english .lang-coming{padding:0 1rem}
+.en-header{position:sticky;top:0;z-index:20;background:rgba(248,245,238,.9);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line)}
+.lang-english .en-body{position:relative}
+.en-main section{margin:3.5rem 0}.en-main section.hero{margin:0}.en-main section.sec{margin:4.5rem auto}.en-main section.wrap{margin-left:auto;margin-right:auto}
+.en-main section.wrap.answer-body{margin-left:max(1rem,calc((100% - 1120px)/2))}
+.en-main .kicker,.en-main .eyebrow{letter-spacing:.06em}.en-main .hero h1,.en-main .lang-h1{font-family:var(--serif);letter-spacing:0;max-width:26ch}
+.hero .lang-h1{font-size:clamp(2rem,4.6vw,3.4rem);line-height:1.18;margin:.3rem 0 1rem}.hero-home .lang-h1{color:#fbf8f1;font-size:clamp(2.4rem,5.4vw,4.2rem);max-width:none}
+.en-footer{background:var(--forest2);color:#d9d3c4;margin-top:6rem;padding:3rem 0}.en-footer a{color:#e9e2d2;text-decoration:none}.en-footer a:hover{color:#fff;text-decoration:underline}.en-footer p{font-size:.88rem;color:#b9b2a2}.en-footer p.en-footer-h{font:600 1rem/1.4 var(--serif);color:#f3efe6;margin:0 0 .8rem}
+html[data-lang="both"] .en-header,html[data-lang="both"] .en-footer,html[data-lang="both"] .en-audio,html[data-lang="both"] .lang-english .site-audio-list{display:none}
+@media(max-width:860px){.en-header .nav a:not(.nav-all){display:none}}
+@media(max-width:760px){.en-main section.sec{margin:3rem auto}.hero .lang-h1{font-size:2.1rem}.hero-home .lang-h1{font-size:2.5rem}.en-main section.wrap.answer-body{margin-left:auto}}
+@media print{.en-header,.en-footer{display:none!important}}

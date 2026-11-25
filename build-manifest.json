@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T01:24:54.297Z",
+  "generated": "2026-11-25T04:52:26.587Z",
   "allowedTop": [
     "tax",
     "property",
@@ -4902,12 +4902,12 @@
       "vertical": "签证与移民",
       "draft": true,
       "facts_used": [
+        "ca-ee-draws:ee-454#min_score",
+        "ca-ee-draws:ee-454#invitations",
         "ca-ee-draws:ee-453#min_score",
         "ca-ee-draws:ee-453#invitations",
         "ca-ee-draws:ee-452#min_score",
         "ca-ee-draws:ee-452#invitations",
-        "ca-ee-draws:ee-451#min_score",
-        "ca-ee-draws:ee-451#invitations",
         "ca-ee-draws:ee-449#min_score",
         "ca-ee-draws:ee-449#invitations",
         "ca-ee-draws:ee-447#min_score",
@@ -4920,12 +4920,12 @@
         "ca-ee-draws:ee-440#invitations",
         "ca-ee-draws:ee-430#min_score",
         "ca-ee-draws:ee-430#invitations",
+        "ca-ee-draws:ee-451#min_score",
+        "ca-ee-draws:ee-451#invitations",
         "ca-ee-draws:ee-434#min_score",
         "ca-ee-draws:ee-434#invitations",
         "ca-ee-draws:ee-450#min_score",
-        "ca-ee-draws:ee-450#invitations",
-        "ca-ee-draws:ee-448#min_score",
-        "ca-ee-draws:ee-448#invitations"
+        "ca-ee-draws:ee-450#invitations"
       ],
       "selectors": [
         "ca-ee-draws:ee-*#min_score",
@@ -5232,6 +5232,7 @@
         "insure-compare:assumption-ci-living-benefit#traits.early-stage",
         "insure-compare:assumption-ci-living-benefit#traits.terms",
         "insure-compare:beneva-ci-critical-illness-insurance#traits.conditions",
+        "insure-compare:beneva-ci-critical-illness-insurance#traits.early-stage",
         "insure-compare:beneva-ci-critical-illness-insurance#traits.rop",
         "insure-compare:beneva-ci-critical-illness-insurance#traits.terms",
         "insure-compare:bmo-ci-living-benefit#traits.rop",
@@ -7677,7 +7678,7 @@
     "html": 472,
     "answers": 29,
     "shorts": 29,
-    "facts": 5621
+    "facts": 5628
   },
   "config": {
     "attribution_mode": "query",
