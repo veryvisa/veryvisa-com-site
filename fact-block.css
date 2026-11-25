@@ -1,0 +1,28 @@
+[data-answer-page] .para {
+  margin: 1em 0;
+}
+
+[data-answer-page] .fact {
+  padding: 0 .15rem;
+  border: 0;
+  border-bottom: 1px dotted var(--accent);
+  border-radius: 0;
+  background: none;
+}
+
+[data-answer-page] .fact details:not([open]) {
+  display: none;
+}
+
+[data-answer-page] .fact details[open] {
+  display: block;
+  margin: .4rem 0;
+  padding: .6rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+[data-answer-page] .fact details summary {
+  display: none;
+}

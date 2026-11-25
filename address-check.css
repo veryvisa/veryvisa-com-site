@@ -1,0 +1,57 @@
+.address-check{max-width:920px}
+.address-search-panel{background:var(--warm);border-radius:18px;padding:clamp(1rem,3vw,2rem)}
+.address-form-grid{display:grid;grid-template-columns:minmax(10rem,.9fr) minmax(7rem,.5fr) minmax(12rem,1.4fr) auto;gap:.8rem;align-items:end}
+.address-form-grid label{display:grid;gap:.35rem;font-weight:650}
+.address-form-grid input,.address-form-grid select,.era-year-form input,.era-year-form select{width:100%;min-height:3rem;padding:.65rem .75rem;border:1px solid #aeb8b2;border-radius:8px;background:#fff;color:var(--ink);font:inherit}
+.address-form-grid input:focus,.address-form-grid select:focus{outline:3px solid color-mix(in srgb,var(--accent) 24%,transparent);border-color:var(--accent)}
+.address-form-grid button,.address-choices button,.address-examples button{min-height:3rem;padding:.65rem .9rem;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-weight:650;cursor:pointer}
+.address-form-grid button:disabled{cursor:wait;opacity:.62}
+.form-help{margin-bottom:.4rem}
+.address-examples{display:flex;gap:.5rem;flex-wrap:wrap}
+.address-examples button{min-height:auto;background:#fff;color:var(--accent);font-weight:500}
+.address-output{display:grid;gap:1rem}
+.address-output .result-card,.address-output .result-message,.address-result-heading{margin:0;background:#fff;border:1px solid var(--line);border-radius:14px;padding:clamp(1rem,3vw,1.5rem)}
+.address-output h2{margin-top:0}
+.address-result-heading h2{font-size:clamp(1.6rem,5vw,2.3rem);margin:.2rem 0}
+.result-lede{font-size:1.05rem}
+.result-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:.7rem;margin:1.3rem 0}
+.result-facts div{padding:.8rem;background:var(--paper);border-radius:8px}
+.result-facts dt{font-size:.82rem;color:var(--muted)}
+.result-facts dd{margin:.2rem 0 0;font-weight:700;font-variant-numeric:tabular-nums}
+.dataset-source{padding-top:.8rem;border-top:1px solid var(--line);color:var(--muted);font-size:.82rem}
+.result-caution{color:var(--muted);font-size:.9rem}
+.result-error{border-color:#c99182!important;background:#fff9f7!important}
+.permit-list{display:grid;gap:.8rem}
+.permit-list article{padding:1rem;border:1px solid var(--line);border-radius:10px}
+.permit-list h3{margin:0;font-size:1.05rem}
+.permit-list p{margin:.4rem 0 0}
+.permit-id{font-family:"SFMono-Regular",Menlo,Consolas,monospace}
+.address-choices{display:grid;gap:.6rem}
+.address-choices button{text-align:left}
+.assessment-chart{margin:1.5rem 0 1rem}
+.assessment-chart svg{display:block;width:100%;height:auto;overflow:visible}
+.assessment-chart .chart-axis{stroke:var(--line);stroke-width:2}
+.assessment-chart .chart-line{fill:none;stroke:var(--accent);stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.assessment-chart circle{fill:var(--paper);stroke:var(--accent);stroke-width:3}
+.assessment-chart text{fill:var(--muted);font-size:12px}
+.assessment-chart figcaption{color:var(--muted);font-size:.82rem}
+.address-disclaimer{border-left:4px solid var(--accent)}
+.era-permits h3{margin:1.1rem 0 .3rem;font-size:1rem}
+.era-rebuilt{margin:1rem 0;padding:.8rem 1rem;border-left:4px solid var(--accent);background:var(--paper);border-radius:8px}
+.era-rebuilt h3{margin-top:0}
+.era-structural{margin:.4rem 0 .8rem}.era-structural p{margin:.3rem 0}
+.era-pair,.referral-links{padding-left:1.2rem}
+.referral-links li{margin:.35rem 0;overflow-wrap:anywhere}
+.era-year-form{display:grid;grid-template-columns:minmax(7rem,.6fr) minmax(9rem,1fr) auto;gap:.6rem;align-items:end;margin:.6rem 0 1rem}
+.era-year-form label{display:grid;gap:.3rem;font-weight:650}
+.era-year-form button{min-height:3rem;padding:.6rem .9rem;border:1px solid var(--accent);border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-weight:650;cursor:pointer}
+.era-card .dataset-source{overflow-wrap:anywhere}
+@media(max-width:700px){.address-form-grid,.era-year-form{grid-template-columns:1fr}.address-form-grid button{width:100%}.result-facts{grid-template-columns:1fr}.assessment-chart text{font-size:24px}.assessment-chart circle{r:6}}
+
+/* 地址页「限制与风险」「管网」两栏（src/client/site-layers.mjs）：只是落区与台账事实，不用颜色分级。 */
+.site-layers .site-layer { border-top: 1px solid var(--line, #d9dde3); padding-top: .75rem; margin-top: .75rem; }
+.site-layers .site-layer:first-of-type { border-top: 0; margin-top: .25rem; padding-top: 0; }
+.site-layers .site-layer h3 { font-size: 1rem; margin: .25rem 0 .5rem; }
+.site-layers .site-layer-list { padding-left: 1.2rem; margin: .25rem 0 .5rem; }
+.site-layers .site-layer-list li { margin: .35rem 0; overflow-wrap: anywhere; }
+.site-layers .dataset-source, .site-layers p { overflow-wrap: anywhere; }
